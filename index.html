@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+
+<html lang="ja"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<title>PokemonExpPointSimulator</title>
+
+<link rel="stylesheet" href="./css/jquery-ui.css">
+
+<link rel="stylesheet" type="text/css" href="./css/contents.css">
+
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<script src="http://code.jquery.com/ui/1.10.2/jquery-ui.js" ></script>
+
+
+<script type="text/javascript">
+function getNames() {
+	var names = [];
+	$.getJSON("./data/exp-point.json", function( data ) {
+		$.each(data,function(key, val) {
+			names.push(val.name.ja);
+			if(key == "diancie") return false;
+		});
+	});
+
+	return names;
+}
+$(document).ready(function(){
+	$(".name").autocomplete({
+		source: getNames(),
+		messages: {
+			noResults: '',
+			results: function() {}
+		}
+	});
+
+});
+
+
+function findPokemon(name) {
+	var info = null;
+	$.ajax({
+		type: "GET", 
+		url: "./data/exp-point.json",
+		dataType: "json",
+		async: false,
+		success: function(data) {
+			$.each(data, function(key, val) {
+				if(val.name.ja == name) {
+					info = val;
+					return false;
+				}
+				if(key == "diancie") return false;
+			});
+		}
+	});
+
+	return info;
+}
+
+function calcRequiredExpPoint(level, info) {
+	level = Number(level);
+	if(level == 1) return 0;
+	var result = 0;
+	if (info.exp_info.leveling_rate == "Erratic") {
+		if (level <= 50) {
+			result = level * level * level * (100 - level) / 50;
+		}
+		else if (level <= 68) {
+			result = level * level * level * (150 - level) / 100;
+		}
+		else if (level <= 98) {
+			result = level * level * level * Math.floor((1911 - 10 * level) / 3) / 500;
+		}
+		else {
+			result = level * level * level * (160 - level) / 100;
+		}
+	}
+	else if(info.exp_info.leveling_rate == "Fast") {
+		result = level * level * level * 4 / 5;
+	}
+	else if(info.exp_info.leveling_rate == "Medium Fast") {
+		result = level * level * level;
+	}
+	else if(info.exp_info.leveling_rate == "Medium Slow") {
+		result = Math.floor(level * level * level * 6 / 5) - 15 * level * level + level * 100 - 140;	
+	}
+	else if(info.exp_info.leveling_rate == "Slow") {
+		result = level * level * level * 5 / 4;
+	}
+	else if(info.exp_info.leveling_rate == "Fluctuating") {
+		if (level <= 15) {
+			result = level * level * level * Math.floor((level + 1) / 3 + 24) / 50;
+		}
+		else if (level <= 36) {
+			result = level * level * level * (level + 14) / 50;
+		}
+		else {
+			result = level * level * level * Math.floor(level / 2 + 32) / 50;
+		}
+	}
+
+	result = Math.floor(result);
+	return result;
+}
+
+function calcExpPoint(level, info) {
+	var expPoint = Number(info.exp_info.base_experience);
+	expPoint *= Number(level);
+	expPoint = Math.floor(expPoint / 7);
+
+	if($(".trainer").prop('checked')) {
+		expPoint *= 3;
+		expPoint /= 2;
+		expPoint = Math.floor(expPoint);
+	}
+	if(!$(".join").prop('checked')) {
+		expPoint /= 2;
+		expPoint = Math.floor(expPoint);
+	}
+
+	if(!$(".originalTrainer").prop('checked')) {
+		if($(".internationalTrade").prop('checked')) {
+			expPoint *= 17;
+			expPoint /= 10;
+		}
+		else {
+			expPoint *= 3;
+			expPoint /= 2;
+		}
+		expPoint = Math.floor(expPoint);
+	}
+
+	if($(".luckyEgg").prop('checked')) {
+		expPoint *= 3;
+		expPoint /= 2;
+		expPoint = Math.floor(expPoint);
+	}
+
+	if($(".evolutionCancel").prop('checked')) {
+		expPoint *= 12;
+		expPoint /= 10;
+		expPoint += 0.4;
+		expPoint = Math.floor(expPoint);
+	}
+
+	if($(".twoHeartsOrMore").prop('checked')) {
+		expPoint *= 12;
+		expPoint /= 10;
+
+		expPoint = Math.floor(expPoint);
+	}
+
+	if($(".OPower").val() == "0") {
+		expPoint *= 10;
+	}
+	else if($(".OPower").val() == "1") {
+		expPoint *= 12;
+	}
+	else if($(".OPower").val() == "2") {
+		expPoint *= 15;
+	}
+	else if($(".OPower").val() == "3") {
+		expPoint *= 20;
+	}
+
+	expPoint /= 10;
+
+	expPoint = Math.floor(expPoint);
+	return expPoint;
+}
+
+function getExpPointType(info) {
+	if (info.exp_info.leveling_rate == "Erratic") {
+		return 60;
+	}
+	else if(info.exp_info.leveling_rate == "Fast") {
+		return 80;
+	}
+	else if(info.exp_info.leveling_rate == "Medium Fast") {
+		return 100;
+	}
+	else if(info.exp_info.leveling_rate == "Medium Slow") {
+		return 105;
+	}
+	else if(info.exp_info.leveling_rate == "Slow") {
+		return 125;
+	}
+	return 164;
+}
+
+function simulate(level, expPoint, info) {
+	var result = []
+	level = Number(level);
+	var diff = calcRequiredExpPoint(level+1, info) - calcRequiredExpPoint(level, info);
+	while(diff <= expPoint) {
+		expPoint -= diff;
+		level+=1;
+		diff = calcRequiredExpPoint(level+1, info) - calcRequiredExpPoint(level, info);
+	}
+
+	result.push(level);
+	result.push(expPoint);
+
+	return result;
+}
+
+function exec(){
+	$(".result-text").text("");
+	var enemyLevel = $(".enemy .level").val();
+	var enemyName = $(".enemy .name").val();
+	var enemyInfo = findPokemon(enemyName);
+	var enemyCount = Number($(".enemyCount").val());
+
+	var allyName = $(".ally .name").val();
+	var allyInfo = findPokemon(allyName);
+	var currentExpPoint = Number($(".ally .expPoint").val());
+
+	var acquireExpPoint = calcExpPoint(enemyLevel, enemyInfo);
+
+	var allyLevel = simulate(1, currentExpPoint, allyInfo)[0];
+	var result = simulate(1, currentExpPoint + acquireExpPoint * enemyCount, allyInfo);
+
+
+	$(".result-text").append(allyName + "の経験値タイプ " + getExpPointType(allyInfo) + "万<br>");
+	$(".result-text").append(enemyName + " の基礎経験値 " + enemyInfo.exp_info.base_experience + "<br>");
+	$(".result-text").append("取得経験値 " + acquireExpPoint + " × " + enemyCount + " = " + acquireExpPoint * enemyCount + "<br><br>");
+
+
+	$(".result-text").append("戦闘終了後<br>");
+	$(".result-text").append("レベル" + allyLevel + "->" + result[0] + "<br>");
+	$(".result-text").append("現在の経験値 " + (calcRequiredExpPoint(result[0], allyInfo) + result[1]) + "<br>");	
+	$(".result-text").append("次のレベルまであと " + (calcRequiredExpPoint(result[0]+1, allyInfo)-calcRequiredExpPoint(result[0], allyInfo)-result[1]) + "<br>");
+
+
+}
+
+</script>
+
+</head>
+<body>
+	<div class="contents">
+		<div class="input-box">
+			<fieldset class="ally">
+				<legend>自分</legend>
+				<table>
+					<tr align="left"><td><label for="name">ポケモン</label></td><td><input type="text" class="name" value="フシギダネ"></td></tr>
+					<tr align="left"><td><label for="expPoint">現在の経験値</label></td><td><input type="number" class="expPoint" value="0" max="1640000" min="0"></td></tr>
+					<tr align="left"><td><label for="OPower">Oパワーのレベル</label></td><td>	<input type="number" class="OPower" value="0" max="3" min="0"></td></tr>
+				</table>
+			</fieldset>
+
+			<fieldset class="enemy">
+				<legend>相手</legend>
+				<table>
+					<tr align="left"><td><label for="name">ポケモン</label></td><td><input type="text" class="name" value="ハピナス"></td></tr>
+					<tr align="left"><td><label for="level">レベル</label></td><td><input type="number" class="level" value="100" max="100" min="0"></td></tr>
+					<tr align="left"><td><label for="enemyCount">相手の数</label></td><td><input type="number" class="enemyCount" value="3" max="3" min="0"></td></tr>
+				</table>
+			</fieldset>
+
+			<fieldset class="other">
+				<legend>その他</legend>
+				<label><input type="checkbox" class="trainer" checked="checked"> 相手がトレーナー</label><br>
+				<label><input type="checkbox" class="join" checked="checked"> 戦闘に参加</label><br>
+				<label><input type="checkbox" class="originalTrainer"> 自己産</label><br>
+				<label><input type="checkbox" class="internationalTrade"> 他国籍</label><br>
+				<label><input type="checkbox" class="luckyEgg"> しあわせタマゴ</label><br>
+				<label><input type="checkbox" class="evolutionCancel"> 進化キャンセル</label><br>
+				<label><input type="checkbox" class="twoHeartsOrMore"> ポケパルレのハートが2個以上</label><br>
+			</fieldset>
+		</div>
+		<input type="button" class="exec" onclick="exec();" value="実行">
+		<div class="result">
+			<label>結果</label><br>
+			<div class="result-text"></div>
+		</div>
+	</div>
+</body>
+
+</html>

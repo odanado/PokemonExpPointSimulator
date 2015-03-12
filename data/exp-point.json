@@ -1,0 +1,7182 @@
+{
+  "bulbasaur": {
+    "name": {
+      "en": "Bulbasaur",
+      "ja": "フシギダネ"
+    },
+    "exp_info": {
+      "base_experience": "64",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "ivysaur": {
+    "name": {
+      "en": "Ivysaur",
+      "ja": "フシギソウ"
+    },
+    "exp_info": {
+      "base_experience": "142",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "venusaur": {
+    "name": {
+      "en": "Venusaur",
+      "ja": "フシギバナ"
+    },
+    "exp_info": {
+      "base_experience": "236",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "charmander": {
+    "name": {
+      "en": "Charmander",
+      "ja": "ヒトカゲ"
+    },
+    "exp_info": {
+      "base_experience": "62",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "charmeleon": {
+    "name": {
+      "en": "Charmeleon",
+      "ja": "リザード"
+    },
+    "exp_info": {
+      "base_experience": "142",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "charizard": {
+    "name": {
+      "en": "Charizard",
+      "ja": "リザードン"
+    },
+    "exp_info": {
+      "base_experience": "240",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "squirtle": {
+    "name": {
+      "en": "Squirtle",
+      "ja": "ゼニガメ"
+    },
+    "exp_info": {
+      "base_experience": "63",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "wartortle": {
+    "name": {
+      "en": "Wartortle",
+      "ja": "カメール"
+    },
+    "exp_info": {
+      "base_experience": "142",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "blastoise": {
+    "name": {
+      "en": "Blastoise",
+      "ja": "カメックス"
+    },
+    "exp_info": {
+      "base_experience": "239",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "caterpie": {
+    "name": {
+      "en": "Caterpie",
+      "ja": "キャタピー"
+    },
+    "exp_info": {
+      "base_experience": "39",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "metapod": {
+    "name": {
+      "en": "Metapod",
+      "ja": "トランセル"
+    },
+    "exp_info": {
+      "base_experience": "72",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "butterfree": {
+    "name": {
+      "en": "Butterfree",
+      "ja": "バタフリー"
+    },
+    "exp_info": {
+      "base_experience": "173",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "weedle": {
+    "name": {
+      "en": "Weedle",
+      "ja": "ビードル"
+    },
+    "exp_info": {
+      "base_experience": "39",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "kakuna": {
+    "name": {
+      "en": "Kakuna",
+      "ja": "コクーン"
+    },
+    "exp_info": {
+      "base_experience": "72",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "beedrill": {
+    "name": {
+      "en": "Beedrill",
+      "ja": "スピアー"
+    },
+    "exp_info": {
+      "base_experience": "173",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "pidgey": {
+    "name": {
+      "en": "Pidgey",
+      "ja": "ポッポ"
+    },
+    "exp_info": {
+      "base_experience": "50",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "pidgeotto": {
+    "name": {
+      "en": "Pidgeotto",
+      "ja": "ピジョン"
+    },
+    "exp_info": {
+      "base_experience": "122",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "pidgeot": {
+    "name": {
+      "en": "Pidgeot",
+      "ja": "ピジョット"
+    },
+    "exp_info": {
+      "base_experience": "211",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "rattata": {
+    "name": {
+      "en": "Rattata",
+      "ja": "コラッタ"
+    },
+    "exp_info": {
+      "base_experience": "51",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "raticate": {
+    "name": {
+      "en": "Raticate",
+      "ja": "ラッタ"
+    },
+    "exp_info": {
+      "base_experience": "145",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "spearow": {
+    "name": {
+      "en": "Spearow",
+      "ja": "オニスズメ"
+    },
+    "exp_info": {
+      "base_experience": "52",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "fearow": {
+    "name": {
+      "en": "Fearow",
+      "ja": "オニドリル"
+    },
+    "exp_info": {
+      "base_experience": "155",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "ekans": {
+    "name": {
+      "en": "Ekans",
+      "ja": "アーボ"
+    },
+    "exp_info": {
+      "base_experience": "58",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "arbok": {
+    "name": {
+      "en": "Arbok",
+      "ja": "アーボック"
+    },
+    "exp_info": {
+      "base_experience": "153",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "pikachu": {
+    "name": {
+      "en": "Pikachu",
+      "ja": "ピカチュウ"
+    },
+    "exp_info": {
+      "base_experience": "105",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "raichu": {
+    "name": {
+      "en": "Raichu",
+      "ja": "ライチュウ"
+    },
+    "exp_info": {
+      "base_experience": "214",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "sandshrew": {
+    "name": {
+      "en": "Sandshrew",
+      "ja": "サンド"
+    },
+    "exp_info": {
+      "base_experience": "60",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "sandslash": {
+    "name": {
+      "en": "Sandslash",
+      "ja": "サンドパン"
+    },
+    "exp_info": {
+      "base_experience": "158",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "nidoran": {
+    "name": {
+      "en": "Nidoran♂",
+      "ja": "ニドラン♂"
+    },
+    "exp_info": {
+      "base_experience": "55",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "nidorina": {
+    "name": {
+      "en": "Nidorina",
+      "ja": "ニドリーナ"
+    },
+    "exp_info": {
+      "base_experience": "128",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "nidoqueen": {
+    "name": {
+      "en": "Nidoqueen",
+      "ja": "ニドクイン"
+    },
+    "exp_info": {
+      "base_experience": "223",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "nidorino": {
+    "name": {
+      "en": "Nidorino",
+      "ja": "ニドリーノ"
+    },
+    "exp_info": {
+      "base_experience": "128",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "nidoking": {
+    "name": {
+      "en": "Nidoking",
+      "ja": "ニドキング"
+    },
+    "exp_info": {
+      "base_experience": "223",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "clefairy": {
+    "name": {
+      "en": "Clefairy",
+      "ja": "ピッピ"
+    },
+    "exp_info": {
+      "base_experience": "113",
+      "leveling_rate": "Fast"
+    }
+  },
+  "clefable": {
+    "name": {
+      "en": "Clefable",
+      "ja": "ピクシー"
+    },
+    "exp_info": {
+      "base_experience": "213",
+      "leveling_rate": "Fast"
+    }
+  },
+  "vulpix": {
+    "name": {
+      "en": "Vulpix",
+      "ja": "ロコン"
+    },
+    "exp_info": {
+      "base_experience": "60",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "ninetales": {
+    "name": {
+      "en": "Ninetales",
+      "ja": "キュウコン"
+    },
+    "exp_info": {
+      "base_experience": "177",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "jigglypuff": {
+    "name": {
+      "en": "Jigglypuff",
+      "ja": "プリン"
+    },
+    "exp_info": {
+      "base_experience": "95",
+      "leveling_rate": "Fast"
+    }
+  },
+  "wigglytuff": {
+    "name": {
+      "en": "Wigglytuff",
+      "ja": "プクリン"
+    },
+    "exp_info": {
+      "base_experience": "191",
+      "leveling_rate": "Fast"
+    }
+  },
+  "zubat": {
+    "name": {
+      "en": "Zubat",
+      "ja": "ズバット"
+    },
+    "exp_info": {
+      "base_experience": "49",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "golbat": {
+    "name": {
+      "en": "Golbat",
+      "ja": "ゴルバット"
+    },
+    "exp_info": {
+      "base_experience": "159",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "oddish": {
+    "name": {
+      "en": "Oddish",
+      "ja": "ナゾノクサ"
+    },
+    "exp_info": {
+      "base_experience": "64",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "gloom": {
+    "name": {
+      "en": "Gloom",
+      "ja": "クサイハナ"
+    },
+    "exp_info": {
+      "base_experience": "138",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "vileplume": {
+    "name": {
+      "en": "Vileplume",
+      "ja": "ラフレシア"
+    },
+    "exp_info": {
+      "base_experience": "216",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "paras": {
+    "name": {
+      "en": "Paras",
+      "ja": "パラス"
+    },
+    "exp_info": {
+      "base_experience": "57",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "parasect": {
+    "name": {
+      "en": "Parasect",
+      "ja": "パラセクト"
+    },
+    "exp_info": {
+      "base_experience": "142",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "venonat": {
+    "name": {
+      "en": "Venonat",
+      "ja": "コンパン"
+    },
+    "exp_info": {
+      "base_experience": "61",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "venomoth": {
+    "name": {
+      "en": "Venomoth",
+      "ja": "モルフォン"
+    },
+    "exp_info": {
+      "base_experience": "158",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "diglett": {
+    "name": {
+      "en": "Diglett",
+      "ja": "ディグダ"
+    },
+    "exp_info": {
+      "base_experience": "53",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "dugtrio": {
+    "name": {
+      "en": "Dugtrio",
+      "ja": "ダグトリオ"
+    },
+    "exp_info": {
+      "base_experience": "142",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "meowth": {
+    "name": {
+      "en": "Meowth",
+      "ja": "ニャース"
+    },
+    "exp_info": {
+      "base_experience": "58",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "persian": {
+    "name": {
+      "en": "Persian",
+      "ja": "ペルシアン"
+    },
+    "exp_info": {
+      "base_experience": "154",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "psyduck": {
+    "name": {
+      "en": "Psyduck",
+      "ja": "コダック"
+    },
+    "exp_info": {
+      "base_experience": "64",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "golduck": {
+    "name": {
+      "en": "Golduck",
+      "ja": "ゴルダック"
+    },
+    "exp_info": {
+      "base_experience": "175",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "mankey": {
+    "name": {
+      "en": "Mankey",
+      "ja": "マンキー"
+    },
+    "exp_info": {
+      "base_experience": "61",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "primeape": {
+    "name": {
+      "en": "Primeape",
+      "ja": "オコリザル"
+    },
+    "exp_info": {
+      "base_experience": "159",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "growlithe": {
+    "name": {
+      "en": "Growlithe",
+      "ja": "ガーディ"
+    },
+    "exp_info": {
+      "base_experience": "70",
+      "leveling_rate": "Slow"
+    }
+  },
+  "arcanine": {
+    "name": {
+      "en": "Arcanine",
+      "ja": "ウインディ"
+    },
+    "exp_info": {
+      "base_experience": "194",
+      "leveling_rate": "Slow"
+    }
+  },
+  "poliwag": {
+    "name": {
+      "en": "Poliwag",
+      "ja": "ニョロモ"
+    },
+    "exp_info": {
+      "base_experience": "60",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "poliwhirl": {
+    "name": {
+      "en": "Poliwhirl",
+      "ja": "ニョロゾ"
+    },
+    "exp_info": {
+      "base_experience": "135",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "poliwrath": {
+    "name": {
+      "en": "Poliwrath",
+      "ja": "ニョロボン"
+    },
+    "exp_info": {
+      "base_experience": "225",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "abra": {
+    "name": {
+      "en": "Abra",
+      "ja": "ケーシィ"
+    },
+    "exp_info": {
+      "base_experience": "62",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "kadabra": {
+    "name": {
+      "en": "Kadabra",
+      "ja": "ユンゲラー"
+    },
+    "exp_info": {
+      "base_experience": "140",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "alakazam": {
+    "name": {
+      "en": "Alakazam",
+      "ja": "フーディン"
+    },
+    "exp_info": {
+      "base_experience": "221",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "machop": {
+    "name": {
+      "en": "Machop",
+      "ja": "ワンリキー"
+    },
+    "exp_info": {
+      "base_experience": "61",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "machoke": {
+    "name": {
+      "en": "Machoke",
+      "ja": "ゴーリキー"
+    },
+    "exp_info": {
+      "base_experience": "142",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "machamp": {
+    "name": {
+      "en": "Machamp",
+      "ja": "カイリキー"
+    },
+    "exp_info": {
+      "base_experience": "227",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "bellsprout": {
+    "name": {
+      "en": "Bellsprout",
+      "ja": "マダツボミ"
+    },
+    "exp_info": {
+      "base_experience": "60",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "weepinbell": {
+    "name": {
+      "en": "Weepinbell",
+      "ja": "ウツドン"
+    },
+    "exp_info": {
+      "base_experience": "137",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "victreebel": {
+    "name": {
+      "en": "Victreebel",
+      "ja": "ウツボット"
+    },
+    "exp_info": {
+      "base_experience": "216",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "tentacool": {
+    "name": {
+      "en": "Tentacool",
+      "ja": "メノクラゲ"
+    },
+    "exp_info": {
+      "base_experience": "67",
+      "leveling_rate": "Slow"
+    }
+  },
+  "tentacruel": {
+    "name": {
+      "en": "Tentacruel",
+      "ja": "ドククラゲ"
+    },
+    "exp_info": {
+      "base_experience": "180",
+      "leveling_rate": "Slow"
+    }
+  },
+  "geodude": {
+    "name": {
+      "en": "Geodude",
+      "ja": "イシツブテ"
+    },
+    "exp_info": {
+      "base_experience": "60",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "graveler": {
+    "name": {
+      "en": "Graveler",
+      "ja": "ゴローン"
+    },
+    "exp_info": {
+      "base_experience": "137",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "golem": {
+    "name": {
+      "en": "Golem",
+      "ja": "ゴローニャ"
+    },
+    "exp_info": {
+      "base_experience": "218",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "ponyta": {
+    "name": {
+      "en": "Ponyta",
+      "ja": "ポニータ"
+    },
+    "exp_info": {
+      "base_experience": "82",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "rapidash": {
+    "name": {
+      "en": "Rapidash",
+      "ja": "ギャロップ"
+    },
+    "exp_info": {
+      "base_experience": "175",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "slowpoke": {
+    "name": {
+      "en": "Slowpoke",
+      "ja": "ヤドン"
+    },
+    "exp_info": {
+      "base_experience": "63",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "slowbro": {
+    "name": {
+      "en": "Slowbro",
+      "ja": "ヤドラン"
+    },
+    "exp_info": {
+      "base_experience": "172",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "magnemite": {
+    "name": {
+      "en": "Magnemite",
+      "ja": "コイル"
+    },
+    "exp_info": {
+      "base_experience": "65",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "magneton": {
+    "name": {
+      "en": "Magneton",
+      "ja": "レアコイル"
+    },
+    "exp_info": {
+      "base_experience": "163",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "farfetchd": {
+    "name": {
+      "en": "Farfetch'd",
+      "ja": "カモネギ"
+    },
+    "exp_info": {
+      "base_experience": "123",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "doduo": {
+    "name": {
+      "en": "Doduo",
+      "ja": "ドードー"
+    },
+    "exp_info": {
+      "base_experience": "62",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "dodrio": {
+    "name": {
+      "en": "Dodrio",
+      "ja": "ドードリオ"
+    },
+    "exp_info": {
+      "base_experience": "161",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "seel": {
+    "name": {
+      "en": "Seel",
+      "ja": "パウワウ"
+    },
+    "exp_info": {
+      "base_experience": "65",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "dewgong": {
+    "name": {
+      "en": "Dewgong",
+      "ja": "ジュゴン"
+    },
+    "exp_info": {
+      "base_experience": "166",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "grimer": {
+    "name": {
+      "en": "Grimer",
+      "ja": "ベトベター"
+    },
+    "exp_info": {
+      "base_experience": "65",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "muk": {
+    "name": {
+      "en": "Muk",
+      "ja": "ベトベトン"
+    },
+    "exp_info": {
+      "base_experience": "175",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "shellder": {
+    "name": {
+      "en": "Shellder",
+      "ja": "シェルダー"
+    },
+    "exp_info": {
+      "base_experience": "61",
+      "leveling_rate": "Slow"
+    }
+  },
+  "cloyster": {
+    "name": {
+      "en": "Cloyster",
+      "ja": "パルシェン"
+    },
+    "exp_info": {
+      "base_experience": "184",
+      "leveling_rate": "Slow"
+    }
+  },
+  "gastly": {
+    "name": {
+      "en": "Gastly",
+      "ja": "ゴース"
+    },
+    "exp_info": {
+      "base_experience": "62",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "haunter": {
+    "name": {
+      "en": "Haunter",
+      "ja": "ゴースト"
+    },
+    "exp_info": {
+      "base_experience": "142",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "gengar": {
+    "name": {
+      "en": "Gengar",
+      "ja": "ゲンガー"
+    },
+    "exp_info": {
+      "base_experience": "225",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "onix": {
+    "name": {
+      "en": "Onix",
+      "ja": "イワーク"
+    },
+    "exp_info": {
+      "base_experience": "77",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "drowzee": {
+    "name": {
+      "en": "Drowzee",
+      "ja": "スリープ"
+    },
+    "exp_info": {
+      "base_experience": "66",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "hypno": {
+    "name": {
+      "en": "Hypno",
+      "ja": "スリーパー"
+    },
+    "exp_info": {
+      "base_experience": "169",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "krabby": {
+    "name": {
+      "en": "Krabby",
+      "ja": "クラブ"
+    },
+    "exp_info": {
+      "base_experience": "65",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "kingler": {
+    "name": {
+      "en": "Kingler",
+      "ja": "キングラー"
+    },
+    "exp_info": {
+      "base_experience": "166",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "voltorb": {
+    "name": {
+      "en": "Voltorb",
+      "ja": "ビリリダマ"
+    },
+    "exp_info": {
+      "base_experience": "66",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "electrode": {
+    "name": {
+      "en": "Electrode",
+      "ja": "マルマイン"
+    },
+    "exp_info": {
+      "base_experience": "168",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "exeggcute": {
+    "name": {
+      "en": "Exeggcute",
+      "ja": "タマタマ"
+    },
+    "exp_info": {
+      "base_experience": "65",
+      "leveling_rate": "Slow"
+    }
+  },
+  "exeggutor": {
+    "name": {
+      "en": "Exeggutor",
+      "ja": "ナッシー"
+    },
+    "exp_info": {
+      "base_experience": "182",
+      "leveling_rate": "Slow"
+    }
+  },
+  "cubone": {
+    "name": {
+      "en": "Cubone",
+      "ja": "カラカラ"
+    },
+    "exp_info": {
+      "base_experience": "64",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "marowak": {
+    "name": {
+      "en": "Marowak",
+      "ja": "ガラガラ"
+    },
+    "exp_info": {
+      "base_experience": "149",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "hitmonlee": {
+    "name": {
+      "en": "Hitmonlee",
+      "ja": "サワムラー"
+    },
+    "exp_info": {
+      "base_experience": "159",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "hitmonchan": {
+    "name": {
+      "en": "Hitmonchan",
+      "ja": "エビワラー"
+    },
+    "exp_info": {
+      "base_experience": "159",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "lickitung": {
+    "name": {
+      "en": "Lickitung",
+      "ja": "ベロリンガ"
+    },
+    "exp_info": {
+      "base_experience": "77",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "koffing": {
+    "name": {
+      "en": "Koffing",
+      "ja": "ドガース"
+    },
+    "exp_info": {
+      "base_experience": "68",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "weezing": {
+    "name": {
+      "en": "Weezing",
+      "ja": "マタドガス"
+    },
+    "exp_info": {
+      "base_experience": "172",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "rhyhorn": {
+    "name": {
+      "en": "Rhyhorn",
+      "ja": "サイホーン"
+    },
+    "exp_info": {
+      "base_experience": "69",
+      "leveling_rate": "Slow"
+    }
+  },
+  "rhydon": {
+    "name": {
+      "en": "Rhydon",
+      "ja": "サイドン"
+    },
+    "exp_info": {
+      "base_experience": "170",
+      "leveling_rate": "Slow"
+    }
+  },
+  "chansey": {
+    "name": {
+      "en": "Chansey",
+      "ja": "ラッキー"
+    },
+    "exp_info": {
+      "base_experience": "395",
+      "leveling_rate": "Fast"
+    }
+  },
+  "tangela": {
+    "name": {
+      "en": "Tangela",
+      "ja": "モンジャラ"
+    },
+    "exp_info": {
+      "base_experience": "87",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "kangaskhan": {
+    "name": {
+      "en": "Kangaskhan",
+      "ja": "ガルーラ"
+    },
+    "exp_info": {
+      "base_experience": "172",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "horsea": {
+    "name": {
+      "en": "Horsea",
+      "ja": "タッツー"
+    },
+    "exp_info": {
+      "base_experience": "59",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "seadra": {
+    "name": {
+      "en": "Seadra",
+      "ja": "シードラ"
+    },
+    "exp_info": {
+      "base_experience": "154",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "goldeen": {
+    "name": {
+      "en": "Goldeen",
+      "ja": "トサキント"
+    },
+    "exp_info": {
+      "base_experience": "64",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "seaking": {
+    "name": {
+      "en": "Seaking",
+      "ja": "アズマオウ"
+    },
+    "exp_info": {
+      "base_experience": "158",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "staryu": {
+    "name": {
+      "en": "Staryu",
+      "ja": "ヒトデマン"
+    },
+    "exp_info": {
+      "base_experience": "68",
+      "leveling_rate": "Slow"
+    }
+  },
+  "starmie": {
+    "name": {
+      "en": "Starmie",
+      "ja": "スターミー"
+    },
+    "exp_info": {
+      "base_experience": "182",
+      "leveling_rate": "Slow"
+    }
+  },
+  "mrmime": {
+    "name": {
+      "en": "Mr. Mime",
+      "ja": "バリヤード"
+    },
+    "exp_info": {
+      "base_experience": "161",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "scyther": {
+    "name": {
+      "en": "Scyther",
+      "ja": "ストライク"
+    },
+    "exp_info": {
+      "base_experience": "100",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "jynx": {
+    "name": {
+      "en": "Jynx",
+      "ja": "ルージュラ"
+    },
+    "exp_info": {
+      "base_experience": "159",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "electabuzz": {
+    "name": {
+      "en": "Electabuzz",
+      "ja": "エレブー"
+    },
+    "exp_info": {
+      "base_experience": "172",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "magmar": {
+    "name": {
+      "en": "Magmar",
+      "ja": "ブーバー"
+    },
+    "exp_info": {
+      "base_experience": "173",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "pinsir": {
+    "name": {
+      "en": "Pinsir",
+      "ja": "カイロス"
+    },
+    "exp_info": {
+      "base_experience": "175",
+      "leveling_rate": "Slow"
+    }
+  },
+  "tauros": {
+    "name": {
+      "en": "Tauros",
+      "ja": "ケンタロス"
+    },
+    "exp_info": {
+      "base_experience": "172",
+      "leveling_rate": "Slow"
+    }
+  },
+  "magikarp": {
+    "name": {
+      "en": "Magikarp",
+      "ja": "コイキング"
+    },
+    "exp_info": {
+      "base_experience": "40",
+      "leveling_rate": "Slow"
+    }
+  },
+  "gyarados": {
+    "name": {
+      "en": "Gyarados",
+      "ja": "ギャラドス"
+    },
+    "exp_info": {
+      "base_experience": "189",
+      "leveling_rate": "Slow"
+    }
+  },
+  "lapras": {
+    "name": {
+      "en": "Lapras",
+      "ja": "ラプラス"
+    },
+    "exp_info": {
+      "base_experience": "187",
+      "leveling_rate": "Slow"
+    }
+  },
+  "ditto": {
+    "name": {
+      "en": "Ditto",
+      "ja": "メタモン"
+    },
+    "exp_info": {
+      "base_experience": "101",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "eevee": {
+    "name": {
+      "en": "Eevee",
+      "ja": "イーブイ"
+    },
+    "exp_info": {
+      "base_experience": "65",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "vaporeon": {
+    "name": {
+      "en": "Vaporeon",
+      "ja": "シャワーズ"
+    },
+    "exp_info": {
+      "base_experience": "184",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "jolteon": {
+    "name": {
+      "en": "Jolteon",
+      "ja": "サンダース"
+    },
+    "exp_info": {
+      "base_experience": "184",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "flareon": {
+    "name": {
+      "en": "Flareon",
+      "ja": "ブースター"
+    },
+    "exp_info": {
+      "base_experience": "184",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "porygon": {
+    "name": {
+      "en": "Porygon",
+      "ja": "ポリゴン"
+    },
+    "exp_info": {
+      "base_experience": "79",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "omanyte": {
+    "name": {
+      "en": "Omanyte",
+      "ja": "オムナイト"
+    },
+    "exp_info": {
+      "base_experience": "71",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "omastar": {
+    "name": {
+      "en": "Omastar",
+      "ja": "オムスター"
+    },
+    "exp_info": {
+      "base_experience": "173",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "kabuto": {
+    "name": {
+      "en": "Kabuto",
+      "ja": "カブト"
+    },
+    "exp_info": {
+      "base_experience": "71",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "kabutops": {
+    "name": {
+      "en": "Kabutops",
+      "ja": "カブトプス"
+    },
+    "exp_info": {
+      "base_experience": "173",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "aerodactyl": {
+    "name": {
+      "en": "Aerodactyl",
+      "ja": "プテラ"
+    },
+    "exp_info": {
+      "base_experience": "180",
+      "leveling_rate": "Slow"
+    }
+  },
+  "snorlax": {
+    "name": {
+      "en": "Snorlax",
+      "ja": "カビゴン"
+    },
+    "exp_info": {
+      "base_experience": "189",
+      "leveling_rate": "Slow"
+    }
+  },
+  "articuno": {
+    "name": {
+      "en": "Articuno",
+      "ja": "フリーザー"
+    },
+    "exp_info": {
+      "base_experience": "261",
+      "leveling_rate": "Slow"
+    }
+  },
+  "zapdos": {
+    "name": {
+      "en": "Zapdos",
+      "ja": "サンダー"
+    },
+    "exp_info": {
+      "base_experience": "261",
+      "leveling_rate": "Slow"
+    }
+  },
+  "moltres": {
+    "name": {
+      "en": "Moltres",
+      "ja": "ファイヤー"
+    },
+    "exp_info": {
+      "base_experience": "261",
+      "leveling_rate": "Slow"
+    }
+  },
+  "dratini": {
+    "name": {
+      "en": "Dratini",
+      "ja": "ミニリュウ"
+    },
+    "exp_info": {
+      "base_experience": "60",
+      "leveling_rate": "Slow"
+    }
+  },
+  "dragonair": {
+    "name": {
+      "en": "Dragonair",
+      "ja": "ハクリュー"
+    },
+    "exp_info": {
+      "base_experience": "147",
+      "leveling_rate": "Slow"
+    }
+  },
+  "dragonite": {
+    "name": {
+      "en": "Dragonite",
+      "ja": "カイリュー"
+    },
+    "exp_info": {
+      "base_experience": "270",
+      "leveling_rate": "Slow"
+    }
+  },
+  "mewtwo": {
+    "name": {
+      "en": "Mewtwo",
+      "ja": "ミュウツー"
+    },
+    "exp_info": {
+      "base_experience": "306",
+      "leveling_rate": "Slow"
+    }
+  },
+  "mew": {
+    "name": {
+      "en": "Mew",
+      "ja": "ミュウ"
+    },
+    "exp_info": {
+      "base_experience": "270",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "chikorita": {
+    "name": {
+      "en": "Chikorita",
+      "ja": "チコリータ"
+    },
+    "exp_info": {
+      "base_experience": "64",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "bayleef": {
+    "name": {
+      "en": "Bayleef",
+      "ja": "ベイリーフ"
+    },
+    "exp_info": {
+      "base_experience": "142",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "meganium": {
+    "name": {
+      "en": "Meganium",
+      "ja": "メガニウム"
+    },
+    "exp_info": {
+      "base_experience": "236",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "cyndaquil": {
+    "name": {
+      "en": "Cyndaquil",
+      "ja": "ヒノアラシ"
+    },
+    "exp_info": {
+      "base_experience": "62",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "quilava": {
+    "name": {
+      "en": "Quilava",
+      "ja": "マグマラシ"
+    },
+    "exp_info": {
+      "base_experience": "142",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "typhlosion": {
+    "name": {
+      "en": "Typhlosion",
+      "ja": "バクフーン"
+    },
+    "exp_info": {
+      "base_experience": "240",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "totodile": {
+    "name": {
+      "en": "Totodile",
+      "ja": "ワニノコ"
+    },
+    "exp_info": {
+      "base_experience": "63",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "croconaw": {
+    "name": {
+      "en": "Croconaw",
+      "ja": "アリゲイツ"
+    },
+    "exp_info": {
+      "base_experience": "142",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "feraligatr": {
+    "name": {
+      "en": "Feraligatr",
+      "ja": "オーダイル"
+    },
+    "exp_info": {
+      "base_experience": "239",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "sentret": {
+    "name": {
+      "en": "Sentret",
+      "ja": "オタチ"
+    },
+    "exp_info": {
+      "base_experience": "43",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "furret": {
+    "name": {
+      "en": "Furret",
+      "ja": "オオタチ"
+    },
+    "exp_info": {
+      "base_experience": "145",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "hoothoot": {
+    "name": {
+      "en": "Hoothoot",
+      "ja": "ホーホー"
+    },
+    "exp_info": {
+      "base_experience": "52",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "noctowl": {
+    "name": {
+      "en": "Noctowl",
+      "ja": "ヨルノズク"
+    },
+    "exp_info": {
+      "base_experience": "155",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "ledyba": {
+    "name": {
+      "en": "Ledyba",
+      "ja": "レディバ"
+    },
+    "exp_info": {
+      "base_experience": "53",
+      "leveling_rate": "Fast"
+    }
+  },
+  "ledian": {
+    "name": {
+      "en": "Ledian",
+      "ja": "レディアン"
+    },
+    "exp_info": {
+      "base_experience": "137",
+      "leveling_rate": "Fast"
+    }
+  },
+  "spinarak": {
+    "name": {
+      "en": "Spinarak",
+      "ja": "イトマル"
+    },
+    "exp_info": {
+      "base_experience": "50",
+      "leveling_rate": "Fast"
+    }
+  },
+  "ariados": {
+    "name": {
+      "en": "Ariados",
+      "ja": "アリアドス"
+    },
+    "exp_info": {
+      "base_experience": "137",
+      "leveling_rate": "Fast"
+    }
+  },
+  "crobat": {
+    "name": {
+      "en": "Crobat",
+      "ja": "クロバット"
+    },
+    "exp_info": {
+      "base_experience": "241",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "chinchou": {
+    "name": {
+      "en": "Chinchou",
+      "ja": "チョンチー"
+    },
+    "exp_info": {
+      "base_experience": "66",
+      "leveling_rate": "Slow"
+    }
+  },
+  "lanturn": {
+    "name": {
+      "en": "Lanturn",
+      "ja": "ランターン"
+    },
+    "exp_info": {
+      "base_experience": "161",
+      "leveling_rate": "Slow"
+    }
+  },
+  "pichu": {
+    "name": {
+      "en": "Pichu",
+      "ja": "ピチュー"
+    },
+    "exp_info": {
+      "base_experience": "41",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "cleffa": {
+    "name": {
+      "en": "Cleffa",
+      "ja": "ピィ"
+    },
+    "exp_info": {
+      "base_experience": "44",
+      "leveling_rate": "Fast"
+    }
+  },
+  "igglybuff": {
+    "name": {
+      "en": "Igglybuff",
+      "ja": "ププリン"
+    },
+    "exp_info": {
+      "base_experience": "42",
+      "leveling_rate": "Fast"
+    }
+  },
+  "togepi": {
+    "name": {
+      "en": "Togepi",
+      "ja": "トゲピー"
+    },
+    "exp_info": {
+      "base_experience": "49",
+      "leveling_rate": "Fast"
+    }
+  },
+  "togetic": {
+    "name": {
+      "en": "Togetic",
+      "ja": "トゲチック"
+    },
+    "exp_info": {
+      "base_experience": "142",
+      "leveling_rate": "Fast"
+    }
+  },
+  "natu": {
+    "name": {
+      "en": "Natu",
+      "ja": "ネイティ"
+    },
+    "exp_info": {
+      "base_experience": "64",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "xatu": {
+    "name": {
+      "en": "Xatu",
+      "ja": "ネイティオ"
+    },
+    "exp_info": {
+      "base_experience": "165",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "mareep": {
+    "name": {
+      "en": "Mareep",
+      "ja": "メリープ"
+    },
+    "exp_info": {
+      "base_experience": "56",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "flaaffy": {
+    "name": {
+      "en": "Flaaffy",
+      "ja": "モココ"
+    },
+    "exp_info": {
+      "base_experience": "128",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "ampharos": {
+    "name": {
+      "en": "Ampharos",
+      "ja": "デンリュウ"
+    },
+    "exp_info": {
+      "base_experience": "225",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "bellossom": {
+    "name": {
+      "en": "Bellossom",
+      "ja": "キレイハナ"
+    },
+    "exp_info": {
+      "base_experience": "216",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "marill": {
+    "name": {
+      "en": "Marill",
+      "ja": "マリル"
+    },
+    "exp_info": {
+      "base_experience": "88",
+      "leveling_rate": "Fast"
+    }
+  },
+  "azumarill": {
+    "name": {
+      "en": "Azumarill",
+      "ja": "マリルリ"
+    },
+    "exp_info": {
+      "base_experience": "185",
+      "leveling_rate": "Fast"
+    }
+  },
+  "sudowoodo": {
+    "name": {
+      "en": "Sudowoodo",
+      "ja": "ウソッキー"
+    },
+    "exp_info": {
+      "base_experience": "144",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "politoed": {
+    "name": {
+      "en": "Politoed",
+      "ja": "ニョロトノ"
+    },
+    "exp_info": {
+      "base_experience": "225",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "hoppip": {
+    "name": {
+      "en": "Hoppip",
+      "ja": "ハネッコ"
+    },
+    "exp_info": {
+      "base_experience": "50",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "skiploom": {
+    "name": {
+      "en": "Skiploom",
+      "ja": "ポポッコ"
+    },
+    "exp_info": {
+      "base_experience": "119",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "jumpluff": {
+    "name": {
+      "en": "Jumpluff",
+      "ja": "ワタッコ"
+    },
+    "exp_info": {
+      "base_experience": "203",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "aipom": {
+    "name": {
+      "en": "Aipom",
+      "ja": "エイパム"
+    },
+    "exp_info": {
+      "base_experience": "72",
+      "leveling_rate": "Fast"
+    }
+  },
+  "sunkern": {
+    "name": {
+      "en": "Sunkern",
+      "ja": "ヒマナッツ"
+    },
+    "exp_info": {
+      "base_experience": "36",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "sunflora": {
+    "name": {
+      "en": "Sunflora",
+      "ja": "キマワリ"
+    },
+    "exp_info": {
+      "base_experience": "149",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "yanma": {
+    "name": {
+      "en": "Yanma",
+      "ja": "ヤンヤンマ"
+    },
+    "exp_info": {
+      "base_experience": "78",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "wooper": {
+    "name": {
+      "en": "Wooper",
+      "ja": "ウパー"
+    },
+    "exp_info": {
+      "base_experience": "42",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "quagsire": {
+    "name": {
+      "en": "Quagsire",
+      "ja": "ヌオー"
+    },
+    "exp_info": {
+      "base_experience": "151",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "espeon": {
+    "name": {
+      "en": "Espeon",
+      "ja": "エーフィ"
+    },
+    "exp_info": {
+      "base_experience": "184",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "umbreon": {
+    "name": {
+      "en": "Umbreon",
+      "ja": "ブラッキー"
+    },
+    "exp_info": {
+      "base_experience": "184",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "murkrow": {
+    "name": {
+      "en": "Murkrow",
+      "ja": "ヤミカラス"
+    },
+    "exp_info": {
+      "base_experience": "81",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "slowking": {
+    "name": {
+      "en": "Slowking",
+      "ja": "ヤドキング"
+    },
+    "exp_info": {
+      "base_experience": "172",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "misdreavus": {
+    "name": {
+      "en": "Misdreavus",
+      "ja": "ムウマ"
+    },
+    "exp_info": {
+      "base_experience": "87",
+      "leveling_rate": "Fast"
+    }
+  },
+  "unown": {
+    "name": {
+      "en": "Unown",
+      "ja": "アンノーン"
+    },
+    "exp_info": {
+      "base_experience": "118",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "wobbuffet": {
+    "name": {
+      "en": "Wobbuffet",
+      "ja": "ソーナンス"
+    },
+    "exp_info": {
+      "base_experience": "142",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "girafarig": {
+    "name": {
+      "en": "Girafarig",
+      "ja": "キリンリキ"
+    },
+    "exp_info": {
+      "base_experience": "159",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "pineco": {
+    "name": {
+      "en": "Pineco",
+      "ja": "クヌギダマ"
+    },
+    "exp_info": {
+      "base_experience": "58",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "forretress": {
+    "name": {
+      "en": "Forretress",
+      "ja": "フォレトス"
+    },
+    "exp_info": {
+      "base_experience": "163",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "dunsparce": {
+    "name": {
+      "en": "Dunsparce",
+      "ja": "ノコッチ"
+    },
+    "exp_info": {
+      "base_experience": "145",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "gligar": {
+    "name": {
+      "en": "Gligar",
+      "ja": "グライガー"
+    },
+    "exp_info": {
+      "base_experience": "86",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "steelix": {
+    "name": {
+      "en": "Steelix",
+      "ja": "ハガネール"
+    },
+    "exp_info": {
+      "base_experience": "179",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "snubbull": {
+    "name": {
+      "en": "Snubbull",
+      "ja": "ブルー"
+    },
+    "exp_info": {
+      "base_experience": "60",
+      "leveling_rate": "Fast"
+    }
+  },
+  "granbull": {
+    "name": {
+      "en": "Granbull",
+      "ja": "グランブル"
+    },
+    "exp_info": {
+      "base_experience": "158",
+      "leveling_rate": "Fast"
+    }
+  },
+  "qwilfish": {
+    "name": {
+      "en": "Qwilfish",
+      "ja": "ハリーセン"
+    },
+    "exp_info": {
+      "base_experience": "86",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "scizor": {
+    "name": {
+      "en": "Scizor",
+      "ja": "ハッサム"
+    },
+    "exp_info": {
+      "base_experience": "175",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "shuckle": {
+    "name": {
+      "en": "Shuckle",
+      "ja": "ツボツボ"
+    },
+    "exp_info": {
+      "base_experience": "177",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "heracross": {
+    "name": {
+      "en": "Heracross",
+      "ja": "ヘラクロス"
+    },
+    "exp_info": {
+      "base_experience": "175",
+      "leveling_rate": "Slow"
+    }
+  },
+  "sneasel": {
+    "name": {
+      "en": "Sneasel",
+      "ja": "ニューラ"
+    },
+    "exp_info": {
+      "base_experience": "86",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "teddiursa": {
+    "name": {
+      "en": "Teddiursa",
+      "ja": "ヒメグマ"
+    },
+    "exp_info": {
+      "base_experience": "66",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "ursaring": {
+    "name": {
+      "en": "Ursaring",
+      "ja": "リングマ"
+    },
+    "exp_info": {
+      "base_experience": "175",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "slugma": {
+    "name": {
+      "en": "Slugma",
+      "ja": "マグマッグ"
+    },
+    "exp_info": {
+      "base_experience": "50",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "magcargo": {
+    "name": {
+      "en": "Magcargo",
+      "ja": "マグカルゴ"
+    },
+    "exp_info": {
+      "base_experience": "144",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "swinub": {
+    "name": {
+      "en": "Swinub",
+      "ja": "ウリムー"
+    },
+    "exp_info": {
+      "base_experience": "50",
+      "leveling_rate": "Slow"
+    }
+  },
+  "piloswine": {
+    "name": {
+      "en": "Piloswine",
+      "ja": "イノムー"
+    },
+    "exp_info": {
+      "base_experience": "158",
+      "leveling_rate": "Slow"
+    }
+  },
+  "corsola": {
+    "name": {
+      "en": "Corsola",
+      "ja": "サニーゴ"
+    },
+    "exp_info": {
+      "base_experience": "133",
+      "leveling_rate": "Fast"
+    }
+  },
+  "remoraid": {
+    "name": {
+      "en": "Remoraid",
+      "ja": "テッポウオ"
+    },
+    "exp_info": {
+      "base_experience": "60",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "octillery": {
+    "name": {
+      "en": "Octillery",
+      "ja": "オクタン"
+    },
+    "exp_info": {
+      "base_experience": "168",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "delibird": {
+    "name": {
+      "en": "Delibird",
+      "ja": "デリバード"
+    },
+    "exp_info": {
+      "base_experience": "116",
+      "leveling_rate": "Fast"
+    }
+  },
+  "mantine": {
+    "name": {
+      "en": "Mantine",
+      "ja": "マンタイン"
+    },
+    "exp_info": {
+      "base_experience": "163",
+      "leveling_rate": "Slow"
+    }
+  },
+  "skarmory": {
+    "name": {
+      "en": "Skarmory",
+      "ja": "エアームド"
+    },
+    "exp_info": {
+      "base_experience": "163",
+      "leveling_rate": "Slow"
+    }
+  },
+  "houndour": {
+    "name": {
+      "en": "Houndour",
+      "ja": "デルビル"
+    },
+    "exp_info": {
+      "base_experience": "66",
+      "leveling_rate": "Slow"
+    }
+  },
+  "houndoom": {
+    "name": {
+      "en": "Houndoom",
+      "ja": "ヘルガー"
+    },
+    "exp_info": {
+      "base_experience": "175",
+      "leveling_rate": "Slow"
+    }
+  },
+  "kingdra": {
+    "name": {
+      "en": "Kingdra",
+      "ja": "キングドラ"
+    },
+    "exp_info": {
+      "base_experience": "243",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "phanpy": {
+    "name": {
+      "en": "Phanpy",
+      "ja": "ゴマゾウ"
+    },
+    "exp_info": {
+      "base_experience": "66",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "donphan": {
+    "name": {
+      "en": "Donphan",
+      "ja": "ドンファン"
+    },
+    "exp_info": {
+      "base_experience": "175",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "porygon2": {
+    "name": {
+      "en": "Porygon2",
+      "ja": "ポリゴン２"
+    },
+    "exp_info": {
+      "base_experience": "180",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "stantler": {
+    "name": {
+      "en": "Stantler",
+      "ja": "オドシシ"
+    },
+    "exp_info": {
+      "base_experience": "163",
+      "leveling_rate": "Slow"
+    }
+  },
+  "smeargle": {
+    "name": {
+      "en": "Smeargle",
+      "ja": "ドーブル"
+    },
+    "exp_info": {
+      "base_experience": "88",
+      "leveling_rate": "Fast"
+    }
+  },
+  "tyrogue": {
+    "name": {
+      "en": "Tyrogue",
+      "ja": "バルキー"
+    },
+    "exp_info": {
+      "base_experience": "42",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "hitmontop": {
+    "name": {
+      "en": "Hitmontop",
+      "ja": "カポエラー"
+    },
+    "exp_info": {
+      "base_experience": "159",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "smoochum": {
+    "name": {
+      "en": "Smoochum",
+      "ja": "ムチュール"
+    },
+    "exp_info": {
+      "base_experience": "61",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "elekid": {
+    "name": {
+      "en": "Elekid",
+      "ja": "エレキッド"
+    },
+    "exp_info": {
+      "base_experience": "72",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "magby": {
+    "name": {
+      "en": "Magby",
+      "ja": "ブビィ"
+    },
+    "exp_info": {
+      "base_experience": "73",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "miltank": {
+    "name": {
+      "en": "Miltank",
+      "ja": "ミルタンク"
+    },
+    "exp_info": {
+      "base_experience": "172",
+      "leveling_rate": "Slow"
+    }
+  },
+  "blissey": {
+    "name": {
+      "en": "Blissey",
+      "ja": "ハピナス"
+    },
+    "exp_info": {
+      "base_experience": "608",
+      "leveling_rate": "Fast"
+    }
+  },
+  "raikou": {
+    "name": {
+      "en": "Raikou",
+      "ja": "ライコウ"
+    },
+    "exp_info": {
+      "base_experience": "261",
+      "leveling_rate": "Slow"
+    }
+  },
+  "entei": {
+    "name": {
+      "en": "Entei",
+      "ja": "エンテイ"
+    },
+    "exp_info": {
+      "base_experience": "261",
+      "leveling_rate": "Slow"
+    }
+  },
+  "suicune": {
+    "name": {
+      "en": "Suicune",
+      "ja": "スイクン"
+    },
+    "exp_info": {
+      "base_experience": "261",
+      "leveling_rate": "Slow"
+    }
+  },
+  "larvitar": {
+    "name": {
+      "en": "Larvitar",
+      "ja": "ヨーギラス"
+    },
+    "exp_info": {
+      "base_experience": "60",
+      "leveling_rate": "Slow"
+    }
+  },
+  "pupitar": {
+    "name": {
+      "en": "Pupitar",
+      "ja": "サナギラス"
+    },
+    "exp_info": {
+      "base_experience": "144",
+      "leveling_rate": "Slow"
+    }
+  },
+  "tyranitar": {
+    "name": {
+      "en": "Tyranitar",
+      "ja": "バンギラス"
+    },
+    "exp_info": {
+      "base_experience": "270",
+      "leveling_rate": "Slow"
+    }
+  },
+  "lugia": {
+    "name": {
+      "en": "Lugia",
+      "ja": "ルギア"
+    },
+    "exp_info": {
+      "base_experience": "306",
+      "leveling_rate": "Slow"
+    }
+  },
+  "hooh": {
+    "name": {
+      "en": "Ho-Oh",
+      "ja": "ホウオウ"
+    },
+    "exp_info": {
+      "base_experience": "306",
+      "leveling_rate": "Slow"
+    }
+  },
+  "celebi": {
+    "name": {
+      "en": "Celebi",
+      "ja": "セレビィ"
+    },
+    "exp_info": {
+      "base_experience": "270",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "treecko": {
+    "name": {
+      "en": "Treecko",
+      "ja": "キモリ"
+    },
+    "exp_info": {
+      "base_experience": "62",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "grovyle": {
+    "name": {
+      "en": "Grovyle",
+      "ja": "ジュプトル"
+    },
+    "exp_info": {
+      "base_experience": "142",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "sceptile": {
+    "name": {
+      "en": "Sceptile",
+      "ja": "ジュカイン"
+    },
+    "exp_info": {
+      "base_experience": "239",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "torchic": {
+    "name": {
+      "en": "Torchic",
+      "ja": "アチャモ"
+    },
+    "exp_info": {
+      "base_experience": "62",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "combusken": {
+    "name": {
+      "en": "Combusken",
+      "ja": "ワカシャモ"
+    },
+    "exp_info": {
+      "base_experience": "142",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "blaziken": {
+    "name": {
+      "en": "Blaziken",
+      "ja": "バシャーモ"
+    },
+    "exp_info": {
+      "base_experience": "239",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "mudkip": {
+    "name": {
+      "en": "Mudkip",
+      "ja": "ミズゴロウ"
+    },
+    "exp_info": {
+      "base_experience": "62",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "marshtomp": {
+    "name": {
+      "en": "Marshtomp",
+      "ja": "ヌマクロー"
+    },
+    "exp_info": {
+      "base_experience": "142",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "swampert": {
+    "name": {
+      "en": "Swampert",
+      "ja": "ラグラージ"
+    },
+    "exp_info": {
+      "base_experience": "241",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "poochyena": {
+    "name": {
+      "en": "Poochyena",
+      "ja": "ポチエナ"
+    },
+    "exp_info": {
+      "base_experience": "44",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "mightyena": {
+    "name": {
+      "en": "Mightyena",
+      "ja": "グラエナ"
+    },
+    "exp_info": {
+      "base_experience": "147",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "zigzagoon": {
+    "name": {
+      "en": "Zigzagoon",
+      "ja": "ジグザグマ"
+    },
+    "exp_info": {
+      "base_experience": "48",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "linoone": {
+    "name": {
+      "en": "Linoone",
+      "ja": "マッスグマ"
+    },
+    "exp_info": {
+      "base_experience": "147",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "wurmple": {
+    "name": {
+      "en": "Wurmple",
+      "ja": "ケムッソ"
+    },
+    "exp_info": {
+      "base_experience": "39",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "silcoon": {
+    "name": {
+      "en": "Silcoon",
+      "ja": "カラサリス"
+    },
+    "exp_info": {
+      "base_experience": "72",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "beautifly": {
+    "name": {
+      "en": "Beautifly",
+      "ja": "アゲハント"
+    },
+    "exp_info": {
+      "base_experience": "173",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "cascoon": {
+    "name": {
+      "en": "Cascoon",
+      "ja": "マユルド"
+    },
+    "exp_info": {
+      "base_experience": "41",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "dustox": {
+    "name": {
+      "en": "Dustox",
+      "ja": "ドクケイル"
+    },
+    "exp_info": {
+      "base_experience": "135",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "lotad": {
+    "name": {
+      "en": "Lotad",
+      "ja": "ハスボー"
+    },
+    "exp_info": {
+      "base_experience": "44",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "lombre": {
+    "name": {
+      "en": "Lombre",
+      "ja": "ハスブレロ"
+    },
+    "exp_info": {
+      "base_experience": "119",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "ludicolo": {
+    "name": {
+      "en": "Ludicolo",
+      "ja": "ルンパッパ"
+    },
+    "exp_info": {
+      "base_experience": "216",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "seedot": {
+    "name": {
+      "en": "Seedot",
+      "ja": "タネボー"
+    },
+    "exp_info": {
+      "base_experience": "44",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "nuzleaf": {
+    "name": {
+      "en": "Nuzleaf",
+      "ja": "コノハナ"
+    },
+    "exp_info": {
+      "base_experience": "119",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "shiftry": {
+    "name": {
+      "en": "Shiftry",
+      "ja": "ダーテング"
+    },
+    "exp_info": {
+      "base_experience": "216",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "taillow": {
+    "name": {
+      "en": "Taillow",
+      "ja": "スバメ"
+    },
+    "exp_info": {
+      "base_experience": "54",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "swellow": {
+    "name": {
+      "en": "Swellow",
+      "ja": "オオスバメ"
+    },
+    "exp_info": {
+      "base_experience": "151",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "wingull": {
+    "name": {
+      "en": "Wingull",
+      "ja": "キャモメ"
+    },
+    "exp_info": {
+      "base_experience": "54",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "pelipper": {
+    "name": {
+      "en": "Pelipper",
+      "ja": "ペリッパー"
+    },
+    "exp_info": {
+      "base_experience": "151",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "ralts": {
+    "name": {
+      "en": "Ralts",
+      "ja": "ラルトス"
+    },
+    "exp_info": {
+      "base_experience": "40",
+      "leveling_rate": "Slow"
+    }
+  },
+  "kirlia": {
+    "name": {
+      "en": "Kirlia",
+      "ja": "キルリア"
+    },
+    "exp_info": {
+      "base_experience": "97",
+      "leveling_rate": "Slow"
+    }
+  },
+  "gardevoir": {
+    "name": {
+      "en": "Gardevoir",
+      "ja": "サーナイト"
+    },
+    "exp_info": {
+      "base_experience": "233",
+      "leveling_rate": "Slow"
+    }
+  },
+  "surskit": {
+    "name": {
+      "en": "Surskit",
+      "ja": "アメタマ"
+    },
+    "exp_info": {
+      "base_experience": "54",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "masquerain": {
+    "name": {
+      "en": "Masquerain",
+      "ja": "アメモース"
+    },
+    "exp_info": {
+      "base_experience": "145",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "shroomish": {
+    "name": {
+      "en": "Shroomish",
+      "ja": "キノココ"
+    },
+    "exp_info": {
+      "base_experience": "59",
+      "leveling_rate": "Fluctuating"
+    }
+  },
+  "breloom": {
+    "name": {
+      "en": "Breloom",
+      "ja": "キノガッサ"
+    },
+    "exp_info": {
+      "base_experience": "161",
+      "leveling_rate": "Fluctuating"
+    }
+  },
+  "slakoth": {
+    "name": {
+      "en": "Slakoth",
+      "ja": "ナマケロ"
+    },
+    "exp_info": {
+      "base_experience": "56",
+      "leveling_rate": "Slow"
+    }
+  },
+  "vigoroth": {
+    "name": {
+      "en": "Vigoroth",
+      "ja": "ヤルキモノ"
+    },
+    "exp_info": {
+      "base_experience": "154",
+      "leveling_rate": "Slow"
+    }
+  },
+  "slaking": {
+    "name": {
+      "en": "Slaking",
+      "ja": "ケッキング"
+    },
+    "exp_info": {
+      "base_experience": "252",
+      "leveling_rate": "Slow"
+    }
+  },
+  "nincada": {
+    "name": {
+      "en": "Nincada",
+      "ja": "ツチニン"
+    },
+    "exp_info": {
+      "base_experience": "53",
+      "leveling_rate": "Erratic"
+    }
+  },
+  "ninjask": {
+    "name": {
+      "en": "Ninjask",
+      "ja": "テッカニン"
+    },
+    "exp_info": {
+      "base_experience": "160",
+      "leveling_rate": "Erratic"
+    }
+  },
+  "shedinja": {
+    "name": {
+      "en": "Shedinja",
+      "ja": "ヌケニン"
+    },
+    "exp_info": {
+      "base_experience": "83",
+      "leveling_rate": "Erratic"
+    }
+  },
+  "whismur": {
+    "name": {
+      "en": "Whismur",
+      "ja": "ゴニョニョ"
+    },
+    "exp_info": {
+      "base_experience": "48",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "loudred": {
+    "name": {
+      "en": "Loudred",
+      "ja": "ドゴーム"
+    },
+    "exp_info": {
+      "base_experience": "126",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "exploud": {
+    "name": {
+      "en": "Exploud",
+      "ja": "バクオング"
+    },
+    "exp_info": {
+      "base_experience": "216",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "makuhita": {
+    "name": {
+      "en": "Makuhita",
+      "ja": "マクノシタ"
+    },
+    "exp_info": {
+      "base_experience": "47",
+      "leveling_rate": "Fluctuating"
+    }
+  },
+  "hariyama": {
+    "name": {
+      "en": "Hariyama",
+      "ja": "ハリテヤマ"
+    },
+    "exp_info": {
+      "base_experience": "166",
+      "leveling_rate": "Fluctuating"
+    }
+  },
+  "azurill": {
+    "name": {
+      "en": "Azurill",
+      "ja": "ルリリ"
+    },
+    "exp_info": {
+      "base_experience": "38",
+      "leveling_rate": "Fast"
+    }
+  },
+  "nosepass": {
+    "name": {
+      "en": "Nosepass",
+      "ja": "ノズパス"
+    },
+    "exp_info": {
+      "base_experience": "75",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "skitty": {
+    "name": {
+      "en": "Skitty",
+      "ja": "エネコ"
+    },
+    "exp_info": {
+      "base_experience": "52",
+      "leveling_rate": "Fast"
+    }
+  },
+  "delcatty": {
+    "name": {
+      "en": "Delcatty",
+      "ja": "エネコロロ"
+    },
+    "exp_info": {
+      "base_experience": "133",
+      "leveling_rate": "Fast"
+    }
+  },
+  "sableye": {
+    "name": {
+      "en": "Sableye",
+      "ja": "ヤミラミ"
+    },
+    "exp_info": {
+      "base_experience": "133",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "mawile": {
+    "name": {
+      "en": "Mawile",
+      "ja": "クチート"
+    },
+    "exp_info": {
+      "base_experience": "133",
+      "leveling_rate": "Fast"
+    }
+  },
+  "aron": {
+    "name": {
+      "en": "Aron",
+      "ja": "ココドラ"
+    },
+    "exp_info": {
+      "base_experience": "66",
+      "leveling_rate": "Slow"
+    }
+  },
+  "lairon": {
+    "name": {
+      "en": "Lairon",
+      "ja": "コドラ"
+    },
+    "exp_info": {
+      "base_experience": "151",
+      "leveling_rate": "Slow"
+    }
+  },
+  "aggron": {
+    "name": {
+      "en": "Aggron",
+      "ja": "ボスゴドラ"
+    },
+    "exp_info": {
+      "base_experience": "239",
+      "leveling_rate": "Slow"
+    }
+  },
+  "meditite": {
+    "name": {
+      "en": "Meditite",
+      "ja": "アサナン"
+    },
+    "exp_info": {
+      "base_experience": "56",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "medicham": {
+    "name": {
+      "en": "Medicham",
+      "ja": "チャーレム"
+    },
+    "exp_info": {
+      "base_experience": "144",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "electrike": {
+    "name": {
+      "en": "Electrike",
+      "ja": "ラクライ"
+    },
+    "exp_info": {
+      "base_experience": "59",
+      "leveling_rate": "Slow"
+    }
+  },
+  "manectric": {
+    "name": {
+      "en": "Manectric",
+      "ja": "ライボルト"
+    },
+    "exp_info": {
+      "base_experience": "166",
+      "leveling_rate": "Slow"
+    }
+  },
+  "plusle": {
+    "name": {
+      "en": "Plusle",
+      "ja": "プラスル"
+    },
+    "exp_info": {
+      "base_experience": "142",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "minun": {
+    "name": {
+      "en": "Minun",
+      "ja": "マイナン"
+    },
+    "exp_info": {
+      "base_experience": "142",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "volbeat": {
+    "name": {
+      "en": "Volbeat",
+      "ja": "バルビート"
+    },
+    "exp_info": {
+      "base_experience": "140",
+      "leveling_rate": "Erratic"
+    }
+  },
+  "illumise": {
+    "name": {
+      "en": "Illumise",
+      "ja": "イルミーゼ"
+    },
+    "exp_info": {
+      "base_experience": "140",
+      "leveling_rate": "Fluctuating"
+    }
+  },
+  "roselia": {
+    "name": {
+      "en": "Roselia",
+      "ja": "ロゼリア"
+    },
+    "exp_info": {
+      "base_experience": "140",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "gulpin": {
+    "name": {
+      "en": "Gulpin",
+      "ja": "ゴクリン"
+    },
+    "exp_info": {
+      "base_experience": "60",
+      "leveling_rate": "Fluctuating"
+    }
+  },
+  "swalot": {
+    "name": {
+      "en": "Swalot",
+      "ja": "マルノーム"
+    },
+    "exp_info": {
+      "base_experience": "163",
+      "leveling_rate": "Fluctuating"
+    }
+  },
+  "carvanha": {
+    "name": {
+      "en": "Carvanha",
+      "ja": "キバニア"
+    },
+    "exp_info": {
+      "base_experience": "61",
+      "leveling_rate": "Slow"
+    }
+  },
+  "sharpedo": {
+    "name": {
+      "en": "Sharpedo",
+      "ja": "サメハダー"
+    },
+    "exp_info": {
+      "base_experience": "161",
+      "leveling_rate": "Slow"
+    }
+  },
+  "wailmer": {
+    "name": {
+      "en": "Wailmer",
+      "ja": "ホエルコ"
+    },
+    "exp_info": {
+      "base_experience": "80",
+      "leveling_rate": "Fluctuating"
+    }
+  },
+  "wailord": {
+    "name": {
+      "en": "Wailord",
+      "ja": "ホエルオー"
+    },
+    "exp_info": {
+      "base_experience": "175",
+      "leveling_rate": "Fluctuating"
+    }
+  },
+  "numel": {
+    "name": {
+      "en": "Numel",
+      "ja": "ドンメル"
+    },
+    "exp_info": {
+      "base_experience": "61",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "camerupt": {
+    "name": {
+      "en": "Camerupt",
+      "ja": "バクーダ"
+    },
+    "exp_info": {
+      "base_experience": "161",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "torkoal": {
+    "name": {
+      "en": "Torkoal",
+      "ja": "コータス"
+    },
+    "exp_info": {
+      "base_experience": "165",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "spoink": {
+    "name": {
+      "en": "Spoink",
+      "ja": "バネブー"
+    },
+    "exp_info": {
+      "base_experience": "66",
+      "leveling_rate": "Fast"
+    }
+  },
+  "grumpig": {
+    "name": {
+      "en": "Grumpig",
+      "ja": "ブーピッグ"
+    },
+    "exp_info": {
+      "base_experience": "165",
+      "leveling_rate": "Fast"
+    }
+  },
+  "spinda": {
+    "name": {
+      "en": "Spinda",
+      "ja": "パッチール"
+    },
+    "exp_info": {
+      "base_experience": "126",
+      "leveling_rate": "Fast"
+    }
+  },
+  "trapinch": {
+    "name": {
+      "en": "Trapinch",
+      "ja": "ナックラー"
+    },
+    "exp_info": {
+      "base_experience": "58",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "vibrava": {
+    "name": {
+      "en": "Vibrava",
+      "ja": "ビブラーバ"
+    },
+    "exp_info": {
+      "base_experience": "119",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "flygon": {
+    "name": {
+      "en": "Flygon",
+      "ja": "フライゴン"
+    },
+    "exp_info": {
+      "base_experience": "234",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "cacnea": {
+    "name": {
+      "en": "Cacnea",
+      "ja": "サボネア"
+    },
+    "exp_info": {
+      "base_experience": "67",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "cacturne": {
+    "name": {
+      "en": "Cacturne",
+      "ja": "ノクタス"
+    },
+    "exp_info": {
+      "base_experience": "166",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "swablu": {
+    "name": {
+      "en": "Swablu",
+      "ja": "チルット"
+    },
+    "exp_info": {
+      "base_experience": "62",
+      "leveling_rate": "Erratic"
+    }
+  },
+  "altaria": {
+    "name": {
+      "en": "Altaria",
+      "ja": "チルタリス"
+    },
+    "exp_info": {
+      "base_experience": "172",
+      "leveling_rate": "Erratic"
+    }
+  },
+  "zangoose": {
+    "name": {
+      "en": "Zangoose",
+      "ja": "ザングース"
+    },
+    "exp_info": {
+      "base_experience": "160",
+      "leveling_rate": "Erratic"
+    }
+  },
+  "seviper": {
+    "name": {
+      "en": "Seviper",
+      "ja": "ハブネーク"
+    },
+    "exp_info": {
+      "base_experience": "160",
+      "leveling_rate": "Fluctuating"
+    }
+  },
+  "lunatone": {
+    "name": {
+      "en": "Lunatone",
+      "ja": "ルナトーン"
+    },
+    "exp_info": {
+      "base_experience": "154",
+      "leveling_rate": "Fast"
+    }
+  },
+  "solrock": {
+    "name": {
+      "en": "Solrock",
+      "ja": "ソルロック"
+    },
+    "exp_info": {
+      "base_experience": "154",
+      "leveling_rate": "Fast"
+    }
+  },
+  "barboach": {
+    "name": {
+      "en": "Barboach",
+      "ja": "ドジョッチ"
+    },
+    "exp_info": {
+      "base_experience": "58",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "whiscash": {
+    "name": {
+      "en": "Whiscash",
+      "ja": "ナマズン"
+    },
+    "exp_info": {
+      "base_experience": "164",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "corphish": {
+    "name": {
+      "en": "Corphish",
+      "ja": "ヘイガニ"
+    },
+    "exp_info": {
+      "base_experience": "62",
+      "leveling_rate": "Fluctuating"
+    }
+  },
+  "crawdaunt": {
+    "name": {
+      "en": "Crawdaunt",
+      "ja": "シザリガー"
+    },
+    "exp_info": {
+      "base_experience": "164",
+      "leveling_rate": "Fluctuating"
+    }
+  },
+  "baltoy": {
+    "name": {
+      "en": "Baltoy",
+      "ja": "ヤジロン"
+    },
+    "exp_info": {
+      "base_experience": "60",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "claydol": {
+    "name": {
+      "en": "Claydol",
+      "ja": "ネンドール"
+    },
+    "exp_info": {
+      "base_experience": "175",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "lileep": {
+    "name": {
+      "en": "Lileep",
+      "ja": "リリーラ"
+    },
+    "exp_info": {
+      "base_experience": "71",
+      "leveling_rate": "Erratic"
+    }
+  },
+  "cradily": {
+    "name": {
+      "en": "Cradily",
+      "ja": "ユレイドル"
+    },
+    "exp_info": {
+      "base_experience": "173",
+      "leveling_rate": "Erratic"
+    }
+  },
+  "anorith": {
+    "name": {
+      "en": "Anorith",
+      "ja": "アノプス"
+    },
+    "exp_info": {
+      "base_experience": "71",
+      "leveling_rate": "Erratic"
+    }
+  },
+  "armaldo": {
+    "name": {
+      "en": "Armaldo",
+      "ja": "アーマルド"
+    },
+    "exp_info": {
+      "base_experience": "173",
+      "leveling_rate": "Erratic"
+    }
+  },
+  "feebas": {
+    "name": {
+      "en": "Feebas",
+      "ja": "ヒンバス"
+    },
+    "exp_info": {
+      "base_experience": "40",
+      "leveling_rate": "Erratic"
+    }
+  },
+  "milotic": {
+    "name": {
+      "en": "Milotic",
+      "ja": "ミロカロス"
+    },
+    "exp_info": {
+      "base_experience": "189",
+      "leveling_rate": "Erratic"
+    }
+  },
+  "castform": {
+    "name": {
+      "en": "Castform",
+      "ja": "ポワルン"
+    },
+    "exp_info": {
+      "base_experience": "147",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "kecleon": {
+    "name": {
+      "en": "Kecleon",
+      "ja": "カクレオン"
+    },
+    "exp_info": {
+      "base_experience": "154",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "shuppet": {
+    "name": {
+      "en": "Shuppet",
+      "ja": "カゲボウズ"
+    },
+    "exp_info": {
+      "base_experience": "59",
+      "leveling_rate": "Fast"
+    }
+  },
+  "banette": {
+    "name": {
+      "en": "Banette",
+      "ja": "ジュペッタ"
+    },
+    "exp_info": {
+      "base_experience": "159",
+      "leveling_rate": "Fast"
+    }
+  },
+  "duskull": {
+    "name": {
+      "en": "Duskull",
+      "ja": "ヨマワル"
+    },
+    "exp_info": {
+      "base_experience": "59",
+      "leveling_rate": "Fast"
+    }
+  },
+  "dusclops": {
+    "name": {
+      "en": "Dusclops",
+      "ja": "サマヨール"
+    },
+    "exp_info": {
+      "base_experience": "159",
+      "leveling_rate": "Fast"
+    }
+  },
+  "tropius": {
+    "name": {
+      "en": "Tropius",
+      "ja": "トロピウス"
+    },
+    "exp_info": {
+      "base_experience": "161",
+      "leveling_rate": "Slow"
+    }
+  },
+  "chimecho": {
+    "name": {
+      "en": "Chimecho",
+      "ja": "チリーン"
+    },
+    "exp_info": {
+      "base_experience": "149",
+      "leveling_rate": "Fast"
+    }
+  },
+  "absol": {
+    "name": {
+      "en": "Absol",
+      "ja": "アブソル"
+    },
+    "exp_info": {
+      "base_experience": "163",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "wynaut": {
+    "name": {
+      "en": "Wynaut",
+      "ja": "ソーナノ"
+    },
+    "exp_info": {
+      "base_experience": "52",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "snorunt": {
+    "name": {
+      "en": "Snorunt",
+      "ja": "ユキワラシ"
+    },
+    "exp_info": {
+      "base_experience": "60",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "glalie": {
+    "name": {
+      "en": "Glalie",
+      "ja": "オニゴーリ"
+    },
+    "exp_info": {
+      "base_experience": "168",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "spheal": {
+    "name": {
+      "en": "Spheal",
+      "ja": "タマザラシ"
+    },
+    "exp_info": {
+      "base_experience": "58",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "sealeo": {
+    "name": {
+      "en": "Sealeo",
+      "ja": "トドグラー"
+    },
+    "exp_info": {
+      "base_experience": "144",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "walrein": {
+    "name": {
+      "en": "Walrein",
+      "ja": "トドゼルガ"
+    },
+    "exp_info": {
+      "base_experience": "239",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "clamperl": {
+    "name": {
+      "en": "Clamperl",
+      "ja": "パールル"
+    },
+    "exp_info": {
+      "base_experience": "69",
+      "leveling_rate": "Erratic"
+    }
+  },
+  "huntail": {
+    "name": {
+      "en": "Huntail",
+      "ja": "ハンテール"
+    },
+    "exp_info": {
+      "base_experience": "170",
+      "leveling_rate": "Erratic"
+    }
+  },
+  "gorebyss": {
+    "name": {
+      "en": "Gorebyss",
+      "ja": "サクラビス"
+    },
+    "exp_info": {
+      "base_experience": "170",
+      "leveling_rate": "Erratic"
+    }
+  },
+  "relicanth": {
+    "name": {
+      "en": "Relicanth",
+      "ja": "ジーランス"
+    },
+    "exp_info": {
+      "base_experience": "170",
+      "leveling_rate": "Slow"
+    }
+  },
+  "luvdisc": {
+    "name": {
+      "en": "Luvdisc",
+      "ja": "ラブカス"
+    },
+    "exp_info": {
+      "base_experience": "116",
+      "leveling_rate": "Fast"
+    }
+  },
+  "bagon": {
+    "name": {
+      "en": "Bagon",
+      "ja": "タツベイ"
+    },
+    "exp_info": {
+      "base_experience": "60",
+      "leveling_rate": "Slow"
+    }
+  },
+  "shelgon": {
+    "name": {
+      "en": "Shelgon",
+      "ja": "コモルー"
+    },
+    "exp_info": {
+      "base_experience": "147",
+      "leveling_rate": "Slow"
+    }
+  },
+  "salamence": {
+    "name": {
+      "en": "Salamence",
+      "ja": "ボーマンダ"
+    },
+    "exp_info": {
+      "base_experience": "270",
+      "leveling_rate": "Slow"
+    }
+  },
+  "beldum": {
+    "name": {
+      "en": "Beldum",
+      "ja": "ダンバル"
+    },
+    "exp_info": {
+      "base_experience": "60",
+      "leveling_rate": "Slow"
+    }
+  },
+  "metang": {
+    "name": {
+      "en": "Metang",
+      "ja": "メタング"
+    },
+    "exp_info": {
+      "base_experience": "147",
+      "leveling_rate": "Slow"
+    }
+  },
+  "metagross": {
+    "name": {
+      "en": "Metagross",
+      "ja": "メタグロス"
+    },
+    "exp_info": {
+      "base_experience": "270",
+      "leveling_rate": "Slow"
+    }
+  },
+  "regirock": {
+    "name": {
+      "en": "Regirock",
+      "ja": "レジロック"
+    },
+    "exp_info": {
+      "base_experience": "261",
+      "leveling_rate": "Slow"
+    }
+  },
+  "regice": {
+    "name": {
+      "en": "Regice",
+      "ja": "レジアイス"
+    },
+    "exp_info": {
+      "base_experience": "261",
+      "leveling_rate": "Slow"
+    }
+  },
+  "registeel": {
+    "name": {
+      "en": "Registeel",
+      "ja": "レジスチル"
+    },
+    "exp_info": {
+      "base_experience": "261",
+      "leveling_rate": "Slow"
+    }
+  },
+  "latias": {
+    "name": {
+      "en": "Latias",
+      "ja": "ラティアス"
+    },
+    "exp_info": {
+      "base_experience": "270",
+      "leveling_rate": "Slow"
+    }
+  },
+  "latios": {
+    "name": {
+      "en": "Latios",
+      "ja": "ラティオス"
+    },
+    "exp_info": {
+      "base_experience": "270",
+      "leveling_rate": "Slow"
+    }
+  },
+  "kyogre": {
+    "name": {
+      "en": "Kyogre",
+      "ja": "カイオーガ"
+    },
+    "exp_info": {
+      "base_experience": "302",
+      "leveling_rate": "Slow"
+    }
+  },
+  "groudon": {
+    "name": {
+      "en": "Groudon",
+      "ja": "グラードン"
+    },
+    "exp_info": {
+      "base_experience": "302",
+      "leveling_rate": "Slow"
+    }
+  },
+  "rayquaza": {
+    "name": {
+      "en": "Rayquaza",
+      "ja": "レックウザ"
+    },
+    "exp_info": {
+      "base_experience": "306",
+      "leveling_rate": "Slow"
+    }
+  },
+  "jirachi": {
+    "name": {
+      "en": "Jirachi",
+      "ja": "ジラーチ"
+    },
+    "exp_info": {
+      "base_experience": "270",
+      "leveling_rate": "Slow"
+    }
+  },
+  "deoxys": {
+    "name": {
+      "en": "Deoxys",
+      "ja": "デオキシス"
+    },
+    "exp_info": {
+      "base_experience": "270",
+      "leveling_rate": "Slow"
+    }
+  },
+  "turtwig": {
+    "name": {
+      "en": "Turtwig",
+      "ja": "ナエトル"
+    },
+    "exp_info": {
+      "base_experience": "64",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "grotle": {
+    "name": {
+      "en": "Grotle",
+      "ja": "ハヤシガメ"
+    },
+    "exp_info": {
+      "base_experience": "142",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "torterra": {
+    "name": {
+      "en": "Torterra",
+      "ja": "ドダイトス"
+    },
+    "exp_info": {
+      "base_experience": "236",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "chimchar": {
+    "name": {
+      "en": "Chimchar",
+      "ja": "ヒコザル"
+    },
+    "exp_info": {
+      "base_experience": "62",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "monferno": {
+    "name": {
+      "en": "Monferno",
+      "ja": "モウカザル"
+    },
+    "exp_info": {
+      "base_experience": "142",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "infernape": {
+    "name": {
+      "en": "Infernape",
+      "ja": "ゴウカザル"
+    },
+    "exp_info": {
+      "base_experience": "240",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "piplup": {
+    "name": {
+      "en": "Piplup",
+      "ja": "ポッチャマ"
+    },
+    "exp_info": {
+      "base_experience": "63",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "prinplup": {
+    "name": {
+      "en": "Prinplup",
+      "ja": "ポッタイシ"
+    },
+    "exp_info": {
+      "base_experience": "142",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "empoleon": {
+    "name": {
+      "en": "Empoleon",
+      "ja": "エンペルト"
+    },
+    "exp_info": {
+      "base_experience": "239",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "starly": {
+    "name": {
+      "en": "Starly",
+      "ja": "ムックル"
+    },
+    "exp_info": {
+      "base_experience": "49",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "staravia": {
+    "name": {
+      "en": "Staravia",
+      "ja": "ムクバード"
+    },
+    "exp_info": {
+      "base_experience": "119",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "staraptor": {
+    "name": {
+      "en": "Staraptor",
+      "ja": "ムクホーク"
+    },
+    "exp_info": {
+      "base_experience": "214",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "bidoof": {
+    "name": {
+      "en": "Bidoof",
+      "ja": "ビッパ"
+    },
+    "exp_info": {
+      "base_experience": "50",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "bibarel": {
+    "name": {
+      "en": "Bibarel",
+      "ja": "ビーダル"
+    },
+    "exp_info": {
+      "base_experience": "144",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "kricketot": {
+    "name": {
+      "en": "Kricketot",
+      "ja": "コロボーシ"
+    },
+    "exp_info": {
+      "base_experience": "39",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "kricketune": {
+    "name": {
+      "en": "Kricketune",
+      "ja": "コロトック"
+    },
+    "exp_info": {
+      "base_experience": "134",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "shinx": {
+    "name": {
+      "en": "Shinx",
+      "ja": "コリンク"
+    },
+    "exp_info": {
+      "base_experience": "53",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "luxio": {
+    "name": {
+      "en": "Luxio",
+      "ja": "ルクシオ"
+    },
+    "exp_info": {
+      "base_experience": "127",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "luxray": {
+    "name": {
+      "en": "Luxray",
+      "ja": "レントラー"
+    },
+    "exp_info": {
+      "base_experience": "235",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "budew": {
+    "name": {
+      "en": "Budew",
+      "ja": "スボミー"
+    },
+    "exp_info": {
+      "base_experience": "56",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "roserade": {
+    "name": {
+      "en": "Roserade",
+      "ja": "ロズレイド"
+    },
+    "exp_info": {
+      "base_experience": "227",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "cranidos": {
+    "name": {
+      "en": "Cranidos",
+      "ja": "ズガイドス"
+    },
+    "exp_info": {
+      "base_experience": "70",
+      "leveling_rate": "Erratic"
+    }
+  },
+  "rampardos": {
+    "name": {
+      "en": "Rampardos",
+      "ja": "ラムパルド"
+    },
+    "exp_info": {
+      "base_experience": "173",
+      "leveling_rate": "Erratic"
+    }
+  },
+  "shieldon": {
+    "name": {
+      "en": "Shieldon",
+      "ja": "タテトプス"
+    },
+    "exp_info": {
+      "base_experience": "70",
+      "leveling_rate": "Erratic"
+    }
+  },
+  "bastiodon": {
+    "name": {
+      "en": "Bastiodon",
+      "ja": "トリデプス"
+    },
+    "exp_info": {
+      "base_experience": "173",
+      "leveling_rate": "Erratic"
+    }
+  },
+  "burmy": {
+    "name": {
+      "en": "Burmy",
+      "ja": "ミノムッチ"
+    },
+    "exp_info": {
+      "base_experience": "45",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "wormadam": {
+    "name": {
+      "en": "Wormadam",
+      "ja": "ミノマダム"
+    },
+    "exp_info": {
+      "base_experience": "148",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "mothim": {
+    "name": {
+      "en": "Mothim",
+      "ja": "ガーメイル"
+    },
+    "exp_info": {
+      "base_experience": "148",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "combee": {
+    "name": {
+      "en": "Combee",
+      "ja": "ミツハニー"
+    },
+    "exp_info": {
+      "base_experience": "49",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "vespiquen": {
+    "name": {
+      "en": "Vespiquen",
+      "ja": "ビークイン"
+    },
+    "exp_info": {
+      "base_experience": "166",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "pachirisu": {
+    "name": {
+      "en": "Pachirisu",
+      "ja": "パチリス"
+    },
+    "exp_info": {
+      "base_experience": "142",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "buizel": {
+    "name": {
+      "en": "Buizel",
+      "ja": "ブイゼル"
+    },
+    "exp_info": {
+      "base_experience": "66",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "floatzel": {
+    "name": {
+      "en": "Floatzel",
+      "ja": "フローゼル"
+    },
+    "exp_info": {
+      "base_experience": "173",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "cherubi": {
+    "name": {
+      "en": "Cherubi",
+      "ja": "チェリンボ"
+    },
+    "exp_info": {
+      "base_experience": "55",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "cherrim": {
+    "name": {
+      "en": "Cherrim",
+      "ja": "チェリム"
+    },
+    "exp_info": {
+      "base_experience": "158",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "shellos": {
+    "name": {
+      "en": "Shellos",
+      "ja": "カラナクシ"
+    },
+    "exp_info": {
+      "base_experience": "65",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "gastrodon": {
+    "name": {
+      "en": "Gastrodon",
+      "ja": "トリトドン"
+    },
+    "exp_info": {
+      "base_experience": "166",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "ambipom": {
+    "name": {
+      "en": "Ambipom",
+      "ja": "エテボース"
+    },
+    "exp_info": {
+      "base_experience": "169",
+      "leveling_rate": "Fast"
+    }
+  },
+  "drifloon": {
+    "name": {
+      "en": "Drifloon",
+      "ja": "フワンテ"
+    },
+    "exp_info": {
+      "base_experience": "70",
+      "leveling_rate": "Fluctuating"
+    }
+  },
+  "drifblim": {
+    "name": {
+      "en": "Drifblim",
+      "ja": "フワライド"
+    },
+    "exp_info": {
+      "base_experience": "174",
+      "leveling_rate": "Fluctuating"
+    }
+  },
+  "buneary": {
+    "name": {
+      "en": "Buneary",
+      "ja": "ミミロル"
+    },
+    "exp_info": {
+      "base_experience": "70",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "lopunny": {
+    "name": {
+      "en": "Lopunny",
+      "ja": "ミミロップ"
+    },
+    "exp_info": {
+      "base_experience": "168",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "mismagius": {
+    "name": {
+      "en": "Mismagius",
+      "ja": "ムウマージ"
+    },
+    "exp_info": {
+      "base_experience": "173",
+      "leveling_rate": "Fast"
+    }
+  },
+  "honchkrow": {
+    "name": {
+      "en": "Honchkrow",
+      "ja": "ドンカラス"
+    },
+    "exp_info": {
+      "base_experience": "177",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "glameow": {
+    "name": {
+      "en": "Glameow",
+      "ja": "ニャルマー"
+    },
+    "exp_info": {
+      "base_experience": "62",
+      "leveling_rate": "Fast"
+    }
+  },
+  "purugly": {
+    "name": {
+      "en": "Purugly",
+      "ja": "ブニャット"
+    },
+    "exp_info": {
+      "base_experience": "158",
+      "leveling_rate": "Fast"
+    }
+  },
+  "chingling": {
+    "name": {
+      "en": "Chingling",
+      "ja": "リーシャン"
+    },
+    "exp_info": {
+      "base_experience": "57",
+      "leveling_rate": "Fast"
+    }
+  },
+  "stunky": {
+    "name": {
+      "en": "Stunky",
+      "ja": "スカンプー"
+    },
+    "exp_info": {
+      "base_experience": "66",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "skuntank": {
+    "name": {
+      "en": "Skuntank",
+      "ja": "スカタンク"
+    },
+    "exp_info": {
+      "base_experience": "168",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "bronzor": {
+    "name": {
+      "en": "Bronzor",
+      "ja": "ドーミラー"
+    },
+    "exp_info": {
+      "base_experience": "60",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "bronzong": {
+    "name": {
+      "en": "Bronzong",
+      "ja": "ドータクン"
+    },
+    "exp_info": {
+      "base_experience": "175",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "bonsly": {
+    "name": {
+      "en": "Bonsly",
+      "ja": "ウソハチ"
+    },
+    "exp_info": {
+      "base_experience": "58",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "mimejr": {
+    "name": {
+      "en": "Mime Jr.",
+      "ja": "マネネ"
+    },
+    "exp_info": {
+      "base_experience": "62",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "happiny": {
+    "name": {
+      "en": "Happiny",
+      "ja": "ピンプク"
+    },
+    "exp_info": {
+      "base_experience": "110",
+      "leveling_rate": "Fast"
+    }
+  },
+  "chatot": {
+    "name": {
+      "en": "Chatot",
+      "ja": "ペラップ"
+    },
+    "exp_info": {
+      "base_experience": "144",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "spiritomb": {
+    "name": {
+      "en": "Spiritomb",
+      "ja": "ミカルゲ"
+    },
+    "exp_info": {
+      "base_experience": "170",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "gible": {
+    "name": {
+      "en": "Gible",
+      "ja": "フカマル"
+    },
+    "exp_info": {
+      "base_experience": "60",
+      "leveling_rate": "Slow"
+    }
+  },
+  "gabite": {
+    "name": {
+      "en": "Gabite",
+      "ja": "ガバイト"
+    },
+    "exp_info": {
+      "base_experience": "144",
+      "leveling_rate": "Slow"
+    }
+  },
+  "garchomp": {
+    "name": {
+      "en": "Garchomp",
+      "ja": "ガブリアス"
+    },
+    "exp_info": {
+      "base_experience": "270",
+      "leveling_rate": "Slow"
+    }
+  },
+  "munchlax": {
+    "name": {
+      "en": "Munchlax",
+      "ja": "ゴンベ"
+    },
+    "exp_info": {
+      "base_experience": "78",
+      "leveling_rate": "Slow"
+    }
+  },
+  "riolu": {
+    "name": {
+      "en": "Riolu",
+      "ja": "リオル"
+    },
+    "exp_info": {
+      "base_experience": "57",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "lucario": {
+    "name": {
+      "en": "Lucario",
+      "ja": "ルカリオ"
+    },
+    "exp_info": {
+      "base_experience": "184",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "hippopotas": {
+    "name": {
+      "en": "Hippopotas",
+      "ja": "ヒポポタス"
+    },
+    "exp_info": {
+      "base_experience": "66",
+      "leveling_rate": "Slow"
+    }
+  },
+  "hippowdon": {
+    "name": {
+      "en": "Hippowdon",
+      "ja": "カバルドン"
+    },
+    "exp_info": {
+      "base_experience": "184",
+      "leveling_rate": "Slow"
+    }
+  },
+  "skorupi": {
+    "name": {
+      "en": "Skorupi",
+      "ja": "スコルピ"
+    },
+    "exp_info": {
+      "base_experience": "66",
+      "leveling_rate": "Slow"
+    }
+  },
+  "drapion": {
+    "name": {
+      "en": "Drapion",
+      "ja": "ドラピオン"
+    },
+    "exp_info": {
+      "base_experience": "175",
+      "leveling_rate": "Slow"
+    }
+  },
+  "croagunk": {
+    "name": {
+      "en": "Croagunk",
+      "ja": "グレッグル"
+    },
+    "exp_info": {
+      "base_experience": "60",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "toxicroak": {
+    "name": {
+      "en": "Toxicroak",
+      "ja": "ドクロッグ"
+    },
+    "exp_info": {
+      "base_experience": "172",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "carnivine": {
+    "name": {
+      "en": "Carnivine",
+      "ja": "マスキッパ"
+    },
+    "exp_info": {
+      "base_experience": "159",
+      "leveling_rate": "Slow"
+    }
+  },
+  "finneon": {
+    "name": {
+      "en": "Finneon",
+      "ja": "ケイコウオ"
+    },
+    "exp_info": {
+      "base_experience": "66",
+      "leveling_rate": "Erratic"
+    }
+  },
+  "lumineon": {
+    "name": {
+      "en": "Lumineon",
+      "ja": "ネオラント"
+    },
+    "exp_info": {
+      "base_experience": "161",
+      "leveling_rate": "Erratic"
+    }
+  },
+  "mantyke": {
+    "name": {
+      "en": "Mantyke",
+      "ja": "タマンタ"
+    },
+    "exp_info": {
+      "base_experience": "69",
+      "leveling_rate": "Slow"
+    }
+  },
+  "snover": {
+    "name": {
+      "en": "Snover",
+      "ja": "ユキカブリ"
+    },
+    "exp_info": {
+      "base_experience": "67",
+      "leveling_rate": "Slow"
+    }
+  },
+  "abomasnow": {
+    "name": {
+      "en": "Abomasnow",
+      "ja": "ユキノオー"
+    },
+    "exp_info": {
+      "base_experience": "173",
+      "leveling_rate": "Slow"
+    }
+  },
+  "weavile": {
+    "name": {
+      "en": "Weavile",
+      "ja": "マニューラ"
+    },
+    "exp_info": {
+      "base_experience": "179",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "magnezone": {
+    "name": {
+      "en": "Magnezone",
+      "ja": "ジバコイル"
+    },
+    "exp_info": {
+      "base_experience": "241",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "lickilicky": {
+    "name": {
+      "en": "Lickilicky",
+      "ja": "ベロベルト"
+    },
+    "exp_info": {
+      "base_experience": "180",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "rhyperior": {
+    "name": {
+      "en": "Rhyperior",
+      "ja": "ドサイドン"
+    },
+    "exp_info": {
+      "base_experience": "241",
+      "leveling_rate": "Slow"
+    }
+  },
+  "tangrowth": {
+    "name": {
+      "en": "Tangrowth",
+      "ja": "モジャンボ"
+    },
+    "exp_info": {
+      "base_experience": "187",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "electivire": {
+    "name": {
+      "en": "Electivire",
+      "ja": "エレキブル"
+    },
+    "exp_info": {
+      "base_experience": "243",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "magmortar": {
+    "name": {
+      "en": "Magmortar",
+      "ja": "ブーバーン"
+    },
+    "exp_info": {
+      "base_experience": "243",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "togekiss": {
+    "name": {
+      "en": "Togekiss",
+      "ja": "トゲキッス"
+    },
+    "exp_info": {
+      "base_experience": "245",
+      "leveling_rate": "Fast"
+    }
+  },
+  "yanmega": {
+    "name": {
+      "en": "Yanmega",
+      "ja": "メガヤンマ"
+    },
+    "exp_info": {
+      "base_experience": "180",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "leafeon": {
+    "name": {
+      "en": "Leafeon",
+      "ja": "リーフィア"
+    },
+    "exp_info": {
+      "base_experience": "184",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "glaceon": {
+    "name": {
+      "en": "Glaceon",
+      "ja": "グレイシア"
+    },
+    "exp_info": {
+      "base_experience": "184",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "gliscor": {
+    "name": {
+      "en": "Gliscor",
+      "ja": "グライオン"
+    },
+    "exp_info": {
+      "base_experience": "179",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "mamoswine": {
+    "name": {
+      "en": "Mamoswine",
+      "ja": "マンムー"
+    },
+    "exp_info": {
+      "base_experience": "239",
+      "leveling_rate": "Slow"
+    }
+  },
+  "porygonz": {
+    "name": {
+      "en": "Porygon-Z",
+      "ja": "ポリゴンZ"
+    },
+    "exp_info": {
+      "base_experience": "241",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "gallade": {
+    "name": {
+      "en": "Gallade",
+      "ja": "エルレイド"
+    },
+    "exp_info": {
+      "base_experience": "233",
+      "leveling_rate": "Slow"
+    }
+  },
+  "probopass": {
+    "name": {
+      "en": "Probopass",
+      "ja": "ダイノーズ"
+    },
+    "exp_info": {
+      "base_experience": "184",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "dusknoir": {
+    "name": {
+      "en": "Dusknoir",
+      "ja": "ヨノワール"
+    },
+    "exp_info": {
+      "base_experience": "236",
+      "leveling_rate": "Fast"
+    }
+  },
+  "froslass": {
+    "name": {
+      "en": "Froslass",
+      "ja": "ユキメノコ"
+    },
+    "exp_info": {
+      "base_experience": "168",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "rotom": {
+    "name": {
+      "en": "Rotom",
+      "ja": "ロトム"
+    },
+    "exp_info": {
+      "base_experience": "154",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "uxie": {
+    "name": {
+      "en": "Uxie",
+      "ja": "ユクシー"
+    },
+    "exp_info": {
+      "base_experience": "261",
+      "leveling_rate": "Slow"
+    }
+  },
+  "mesprit": {
+    "name": {
+      "en": "Mesprit",
+      "ja": "エムリット"
+    },
+    "exp_info": {
+      "base_experience": "261",
+      "leveling_rate": "Slow"
+    }
+  },
+  "azelf": {
+    "name": {
+      "en": "Azelf",
+      "ja": "アグノム"
+    },
+    "exp_info": {
+      "base_experience": "261",
+      "leveling_rate": "Slow"
+    }
+  },
+  "dialga": {
+    "name": {
+      "en": "Dialga",
+      "ja": "ディアルガ"
+    },
+    "exp_info": {
+      "base_experience": "306",
+      "leveling_rate": "Slow"
+    }
+  },
+  "palkia": {
+    "name": {
+      "en": "Palkia",
+      "ja": "パルキア"
+    },
+    "exp_info": {
+      "base_experience": "306",
+      "leveling_rate": "Slow"
+    }
+  },
+  "heatran": {
+    "name": {
+      "en": "Heatran",
+      "ja": "ヒードラン"
+    },
+    "exp_info": {
+      "base_experience": "270",
+      "leveling_rate": "Slow"
+    }
+  },
+  "regigigas": {
+    "name": {
+      "en": "Regigigas",
+      "ja": "レジギガス"
+    },
+    "exp_info": {
+      "base_experience": "302",
+      "leveling_rate": "Slow"
+    }
+  },
+  "giratina": {
+    "name": {
+      "en": "Giratina",
+      "ja": "ギラティナ"
+    },
+    "exp_info": {
+      "base_experience": "306",
+      "leveling_rate": "Slow"
+    }
+  },
+  "cresselia": {
+    "name": {
+      "en": "Cresselia",
+      "ja": "クレセリア"
+    },
+    "exp_info": {
+      "base_experience": "270",
+      "leveling_rate": "Slow"
+    }
+  },
+  "phione": {
+    "name": {
+      "en": "Phione",
+      "ja": "フィオネ"
+    },
+    "exp_info": {
+      "base_experience": "216",
+      "leveling_rate": "Slow"
+    }
+  },
+  "manaphy": {
+    "name": {
+      "en": "Manaphy",
+      "ja": "マナフィ"
+    },
+    "exp_info": {
+      "base_experience": "270",
+      "leveling_rate": "Slow"
+    }
+  },
+  "darkrai": {
+    "name": {
+      "en": "Darkrai",
+      "ja": "ダークライ"
+    },
+    "exp_info": {
+      "base_experience": "270",
+      "leveling_rate": "Slow"
+    }
+  },
+  "shaymin": {
+    "name": {
+      "en": "Shaymin",
+      "ja": "シェイミ"
+    },
+    "exp_info": {
+      "base_experience": "270",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "arceus": {
+    "name": {
+      "en": "Arceus",
+      "ja": "アルセウス"
+    },
+    "exp_info": {
+      "base_experience": "324",
+      "leveling_rate": "Slow"
+    }
+  },
+  "victini": {
+    "name": {
+      "en": "Victini",
+      "ja": "ビクティニ"
+    },
+    "exp_info": {
+      "base_experience": "270",
+      "leveling_rate": "Slow"
+    }
+  },
+  "snivy": {
+    "name": {
+      "en": "Snivy",
+      "ja": "ツタージャ"
+    },
+    "exp_info": {
+      "base_experience": "28",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "servine": {
+    "name": {
+      "en": "Servine",
+      "ja": "ジャノビー"
+    },
+    "exp_info": {
+      "base_experience": "145",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "serperior": {
+    "name": {
+      "en": "Serperior",
+      "ja": "ジャローダ"
+    },
+    "exp_info": {
+      "base_experience": "238",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "tepig": {
+    "name": {
+      "en": "Tepig",
+      "ja": "ポカブ"
+    },
+    "exp_info": {
+      "base_experience": "28",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "pignite": {
+    "name": {
+      "en": "Pignite",
+      "ja": "チャオブー"
+    },
+    "exp_info": {
+      "base_experience": "146",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "emboar": {
+    "name": {
+      "en": "Emboar",
+      "ja": "エンブオー"
+    },
+    "exp_info": {
+      "base_experience": "238",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "oshawott": {
+    "name": {
+      "en": "Oshawott",
+      "ja": "ミジュマル"
+    },
+    "exp_info": {
+      "base_experience": "28",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "dewott": {
+    "name": {
+      "en": "Dewott",
+      "ja": "フタチマル"
+    },
+    "exp_info": {
+      "base_experience": "145",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "samurott": {
+    "name": {
+      "en": "Samurott",
+      "ja": "ダイケンキ"
+    },
+    "exp_info": {
+      "base_experience": "238",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "patrat": {
+    "name": {
+      "en": "Patrat",
+      "ja": "ミネズミ"
+    },
+    "exp_info": {
+      "base_experience": "51",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "watchog": {
+    "name": {
+      "en": "Watchog",
+      "ja": "ミルホッグ"
+    },
+    "exp_info": {
+      "base_experience": "147",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "lillipup": {
+    "name": {
+      "en": "Lillipup",
+      "ja": "ヨーテリー"
+    },
+    "exp_info": {
+      "base_experience": "55",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "herdier": {
+    "name": {
+      "en": "Herdier",
+      "ja": "ハーデリア"
+    },
+    "exp_info": {
+      "base_experience": "130",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "stoutland": {
+    "name": {
+      "en": "Stoutland",
+      "ja": "ムーランド"
+    },
+    "exp_info": {
+      "base_experience": "221",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "purrloin": {
+    "name": {
+      "en": "Purrloin",
+      "ja": "チョロネコ"
+    },
+    "exp_info": {
+      "base_experience": "56",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "liepard": {
+    "name": {
+      "en": "Liepard",
+      "ja": "レパルダス"
+    },
+    "exp_info": {
+      "base_experience": "156",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "pansage": {
+    "name": {
+      "en": "Pansage",
+      "ja": "ヤナップ"
+    },
+    "exp_info": {
+      "base_experience": "63",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "simisage": {
+    "name": {
+      "en": "Simisage",
+      "ja": "ヤナッキー"
+    },
+    "exp_info": {
+      "base_experience": "174",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "pansear": {
+    "name": {
+      "en": "Pansear",
+      "ja": "バオップ"
+    },
+    "exp_info": {
+      "base_experience": "63",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "simisear": {
+    "name": {
+      "en": "Simisear",
+      "ja": "バオッキー"
+    },
+    "exp_info": {
+      "base_experience": "174",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "panpour": {
+    "name": {
+      "en": "Panpour",
+      "ja": "ヒヤップ"
+    },
+    "exp_info": {
+      "base_experience": "63",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "simipour": {
+    "name": {
+      "en": "Simipour",
+      "ja": "ヒヤッキー"
+    },
+    "exp_info": {
+      "base_experience": "174",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "munna": {
+    "name": {
+      "en": "Munna",
+      "ja": "ムンナ"
+    },
+    "exp_info": {
+      "base_experience": "58",
+      "leveling_rate": "Fast"
+    }
+  },
+  "musharna": {
+    "name": {
+      "en": "Musharna",
+      "ja": "ムシャーナ"
+    },
+    "exp_info": {
+      "base_experience": "170",
+      "leveling_rate": "Fast"
+    }
+  },
+  "pidove": {
+    "name": {
+      "en": "Pidove",
+      "ja": "マメパト"
+    },
+    "exp_info": {
+      "base_experience": "53",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "tranquill": {
+    "name": {
+      "en": "Tranquill",
+      "ja": "ハトーボー"
+    },
+    "exp_info": {
+      "base_experience": "125",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "unfezant": {
+    "name": {
+      "en": "Unfezant",
+      "ja": "ケンホロウ"
+    },
+    "exp_info": {
+      "base_experience": "215",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "blitzle": {
+    "name": {
+      "en": "Blitzle",
+      "ja": "シママ"
+    },
+    "exp_info": {
+      "base_experience": "59",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "zebstrika": {
+    "name": {
+      "en": "Zebstrika",
+      "ja": "ゼブライカ"
+    },
+    "exp_info": {
+      "base_experience": "174",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "roggenrola": {
+    "name": {
+      "en": "Roggenrola",
+      "ja": "ダンゴロ"
+    },
+    "exp_info": {
+      "base_experience": "56",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "boldore": {
+    "name": {
+      "en": "Boldore",
+      "ja": "ガントル"
+    },
+    "exp_info": {
+      "base_experience": "137",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "gigalith": {
+    "name": {
+      "en": "Gigalith",
+      "ja": "ギガイアス"
+    },
+    "exp_info": {
+      "base_experience": "227",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "woobat": {
+    "name": {
+      "en": "Woobat",
+      "ja": "コロモリ"
+    },
+    "exp_info": {
+      "base_experience": "63",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "swoobat": {
+    "name": {
+      "en": "Swoobat",
+      "ja": "ココロモリ"
+    },
+    "exp_info": {
+      "base_experience": "149",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "drilbur": {
+    "name": {
+      "en": "Drilbur",
+      "ja": "モグリュー"
+    },
+    "exp_info": {
+      "base_experience": "66",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "excadrill": {
+    "name": {
+      "en": "Excadrill",
+      "ja": "ドリュウズ"
+    },
+    "exp_info": {
+      "base_experience": "178",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "audino": {
+    "name": {
+      "en": "Audino",
+      "ja": "タブンネ"
+    },
+    "exp_info": {
+      "base_experience": "390",
+      "leveling_rate": "Fast"
+    }
+  },
+  "timburr": {
+    "name": {
+      "en": "Timburr",
+      "ja": "ドッコラー"
+    },
+    "exp_info": {
+      "base_experience": "61",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "gurdurr": {
+    "name": {
+      "en": "Gurdurr",
+      "ja": "ドテッコツ"
+    },
+    "exp_info": {
+      "base_experience": "142",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "conkeldurr": {
+    "name": {
+      "en": "Conkeldurr",
+      "ja": "ローブシン"
+    },
+    "exp_info": {
+      "base_experience": "227",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "tympole": {
+    "name": {
+      "en": "Tympole",
+      "ja": "オタマロ"
+    },
+    "exp_info": {
+      "base_experience": "59",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "palpitoad": {
+    "name": {
+      "en": "Palpitoad",
+      "ja": "ガマガル"
+    },
+    "exp_info": {
+      "base_experience": "134",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "seismitoad": {
+    "name": {
+      "en": "Seismitoad",
+      "ja": "ガマゲロゲ"
+    },
+    "exp_info": {
+      "base_experience": "225",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "throh": {
+    "name": {
+      "en": "Throh",
+      "ja": "ナゲキ"
+    },
+    "exp_info": {
+      "base_experience": "163",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "sawk": {
+    "name": {
+      "en": "Sawk",
+      "ja": "ダゲキ"
+    },
+    "exp_info": {
+      "base_experience": "163",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "sewaddle": {
+    "name": {
+      "en": "Sewaddle",
+      "ja": "クルミル"
+    },
+    "exp_info": {
+      "base_experience": "62",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "swadloon": {
+    "name": {
+      "en": "Swadloon",
+      "ja": "クルマユ"
+    },
+    "exp_info": {
+      "base_experience": "133",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "leavanny": {
+    "name": {
+      "en": "Leavanny",
+      "ja": "ハハコモリ"
+    },
+    "exp_info": {
+      "base_experience": "221",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "venipede": {
+    "name": {
+      "en": "Venipede",
+      "ja": "フシデ"
+    },
+    "exp_info": {
+      "base_experience": "52",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "whirlipede": {
+    "name": {
+      "en": "Whirlipede",
+      "ja": "ホイーガ"
+    },
+    "exp_info": {
+      "base_experience": "126",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "scolipede": {
+    "name": {
+      "en": "Scolipede",
+      "ja": "ペンドラー"
+    },
+    "exp_info": {
+      "base_experience": "214",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "cottonee": {
+    "name": {
+      "en": "Cottonee",
+      "ja": "モンメン"
+    },
+    "exp_info": {
+      "base_experience": "56",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "whimsicott": {
+    "name": {
+      "en": "Whimsicott",
+      "ja": "エルフーン"
+    },
+    "exp_info": {
+      "base_experience": "168",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "petilil": {
+    "name": {
+      "en": "Petilil",
+      "ja": "チュリネ"
+    },
+    "exp_info": {
+      "base_experience": "56",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "lilligant": {
+    "name": {
+      "en": "Lilligant",
+      "ja": "ドレディア"
+    },
+    "exp_info": {
+      "base_experience": "168",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "basculin": {
+    "name": {
+      "en": "Basculin",
+      "ja": "バスラオ"
+    },
+    "exp_info": {
+      "base_experience": "161",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "sandile": {
+    "name": {
+      "en": "Sandile",
+      "ja": "メグロコ"
+    },
+    "exp_info": {
+      "base_experience": "58",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "krokorok": {
+    "name": {
+      "en": "Krokorok",
+      "ja": "ワルビル"
+    },
+    "exp_info": {
+      "base_experience": "123",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "krookodile": {
+    "name": {
+      "en": "Krookodile",
+      "ja": "ワルビアル"
+    },
+    "exp_info": {
+      "base_experience": "229",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "darumaka": {
+    "name": {
+      "en": "Darumaka",
+      "ja": "ダルマッカ"
+    },
+    "exp_info": {
+      "base_experience": "63",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "darmanitan": {
+    "name": {
+      "en": "Darmanitan",
+      "ja": "ヒヒダルマ"
+    },
+    "exp_info": {
+      "base_experience": "168",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "maractus": {
+    "name": {
+      "en": "Maractus",
+      "ja": "マラカッチ"
+    },
+    "exp_info": {
+      "base_experience": "161",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "dwebble": {
+    "name": {
+      "en": "Dwebble",
+      "ja": "イシズマイ"
+    },
+    "exp_info": {
+      "base_experience": "65",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "crustle": {
+    "name": {
+      "en": "Crustle",
+      "ja": "イワパレス"
+    },
+    "exp_info": {
+      "base_experience": "166",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "scraggy": {
+    "name": {
+      "en": "Scraggy",
+      "ja": "ズルッグ"
+    },
+    "exp_info": {
+      "base_experience": "70",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "scrafty": {
+    "name": {
+      "en": "Scrafty",
+      "ja": "ズルズキン"
+    },
+    "exp_info": {
+      "base_experience": "171",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "sigilyph": {
+    "name": {
+      "en": "Sigilyph",
+      "ja": "シンボラー"
+    },
+    "exp_info": {
+      "base_experience": "172",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "yamask": {
+    "name": {
+      "en": "Yamask",
+      "ja": "デスマス"
+    },
+    "exp_info": {
+      "base_experience": "61",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "cofagrigus": {
+    "name": {
+      "en": "Cofagrigus",
+      "ja": "デスカーン"
+    },
+    "exp_info": {
+      "base_experience": "169",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "tirtouga": {
+    "name": {
+      "en": "Tirtouga",
+      "ja": "プロトーガ"
+    },
+    "exp_info": {
+      "base_experience": "71",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "carracosta": {
+    "name": {
+      "en": "Carracosta",
+      "ja": "アバゴーラ"
+    },
+    "exp_info": {
+      "base_experience": "173",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "archen": {
+    "name": {
+      "en": "Archen",
+      "ja": "アーケン"
+    },
+    "exp_info": {
+      "base_experience": "71",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "archeops": {
+    "name": {
+      "en": "Archeops",
+      "ja": "アーケオス"
+    },
+    "exp_info": {
+      "base_experience": "177",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "trubbish": {
+    "name": {
+      "en": "Trubbish",
+      "ja": "ヤブクロン"
+    },
+    "exp_info": {
+      "base_experience": "66",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "garbodor": {
+    "name": {
+      "en": "Garbodor",
+      "ja": "ダストダス"
+    },
+    "exp_info": {
+      "base_experience": "166",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "zorua": {
+    "name": {
+      "en": "Zorua",
+      "ja": "ゾロア"
+    },
+    "exp_info": {
+      "base_experience": "66",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "zoroark": {
+    "name": {
+      "en": "Zoroark",
+      "ja": "ゾロアーク"
+    },
+    "exp_info": {
+      "base_experience": "179",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "minccino": {
+    "name": {
+      "en": "Minccino",
+      "ja": "チラーミィ"
+    },
+    "exp_info": {
+      "base_experience": "60",
+      "leveling_rate": "Fast"
+    }
+  },
+  "cinccino": {
+    "name": {
+      "en": "Cinccino",
+      "ja": "チラチーノ"
+    },
+    "exp_info": {
+      "base_experience": "165",
+      "leveling_rate": "Fast"
+    }
+  },
+  "gothita": {
+    "name": {
+      "en": "Gothita",
+      "ja": "ゴチム"
+    },
+    "exp_info": {
+      "base_experience": "58",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "gothorita": {
+    "name": {
+      "en": "Gothorita",
+      "ja": "ゴチミル"
+    },
+    "exp_info": {
+      "base_experience": "137",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "gothitelle": {
+    "name": {
+      "en": "Gothitelle",
+      "ja": "ゴチルゼル"
+    },
+    "exp_info": {
+      "base_experience": "221",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "solosis": {
+    "name": {
+      "en": "Solosis",
+      "ja": "ユニラン"
+    },
+    "exp_info": {
+      "base_experience": "58",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "duosion": {
+    "name": {
+      "en": "Duosion",
+      "ja": "ダブラン"
+    },
+    "exp_info": {
+      "base_experience": "130",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "reuniclus": {
+    "name": {
+      "en": "Reuniclus",
+      "ja": "ランクルス"
+    },
+    "exp_info": {
+      "base_experience": "221",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "ducklett": {
+    "name": {
+      "en": "Ducklett",
+      "ja": "コアルヒー"
+    },
+    "exp_info": {
+      "base_experience": "61",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "swanna": {
+    "name": {
+      "en": "Swanna",
+      "ja": "スワンナ"
+    },
+    "exp_info": {
+      "base_experience": "166",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "vanillite": {
+    "name": {
+      "en": "Vanillite",
+      "ja": "バニプッチ"
+    },
+    "exp_info": {
+      "base_experience": "61",
+      "leveling_rate": "Slow"
+    }
+  },
+  "vanillish": {
+    "name": {
+      "en": "Vanillish",
+      "ja": "バニリッチ"
+    },
+    "exp_info": {
+      "base_experience": "138",
+      "leveling_rate": "Slow"
+    }
+  },
+  "vanilluxe": {
+    "name": {
+      "en": "Vanilluxe",
+      "ja": "バイバニラ"
+    },
+    "exp_info": {
+      "base_experience": "241",
+      "leveling_rate": "Slow"
+    }
+  },
+  "deerling": {
+    "name": {
+      "en": "Deerling",
+      "ja": "シキジカ"
+    },
+    "exp_info": {
+      "base_experience": "67",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "sawsbuck": {
+    "name": {
+      "en": "Sawsbuck",
+      "ja": "メブキジカ"
+    },
+    "exp_info": {
+      "base_experience": "166",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "emolga": {
+    "name": {
+      "en": "Emolga",
+      "ja": "エモンガ"
+    },
+    "exp_info": {
+      "base_experience": "150",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "karrablast": {
+    "name": {
+      "en": "Karrablast",
+      "ja": "カブルモ"
+    },
+    "exp_info": {
+      "base_experience": "63",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "escavalier": {
+    "name": {
+      "en": "Escavalier",
+      "ja": "シュバルゴ"
+    },
+    "exp_info": {
+      "base_experience": "173",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "foongus": {
+    "name": {
+      "en": "Foongus",
+      "ja": "タマゲタケ"
+    },
+    "exp_info": {
+      "base_experience": "59",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "amoonguss": {
+    "name": {
+      "en": "Amoonguss",
+      "ja": "モロバレル"
+    },
+    "exp_info": {
+      "base_experience": "162",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "frillish": {
+    "name": {
+      "en": "Frillish",
+      "ja": "プルリル"
+    },
+    "exp_info": {
+      "base_experience": "67",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "jellicent": {
+    "name": {
+      "en": "Jellicent",
+      "ja": "ブルンゲル"
+    },
+    "exp_info": {
+      "base_experience": "168",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "alomomola": {
+    "name": {
+      "en": "Alomomola",
+      "ja": "ママンボウ"
+    },
+    "exp_info": {
+      "base_experience": "165",
+      "leveling_rate": "Fast"
+    }
+  },
+  "joltik": {
+    "name": {
+      "en": "Joltik",
+      "ja": "バチュル"
+    },
+    "exp_info": {
+      "base_experience": "64",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "galvantula": {
+    "name": {
+      "en": "Galvantula",
+      "ja": "デンチュラ"
+    },
+    "exp_info": {
+      "base_experience": "165",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "ferroseed": {
+    "name": {
+      "en": "Ferroseed",
+      "ja": "テッシード"
+    },
+    "exp_info": {
+      "base_experience": "61",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "ferrothorn": {
+    "name": {
+      "en": "Ferrothorn",
+      "ja": "ナットレイ"
+    },
+    "exp_info": {
+      "base_experience": "171",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "klink": {
+    "name": {
+      "en": "Klink",
+      "ja": "ギアル"
+    },
+    "exp_info": {
+      "base_experience": "60",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "klang": {
+    "name": {
+      "en": "Klang",
+      "ja": "ギギアル"
+    },
+    "exp_info": {
+      "base_experience": "154",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "klinklang": {
+    "name": {
+      "en": "Klinklang",
+      "ja": "ギギギアル"
+    },
+    "exp_info": {
+      "base_experience": "234",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "tynamo": {
+    "name": {
+      "en": "Tynamo",
+      "ja": "シビシラス"
+    },
+    "exp_info": {
+      "base_experience": "55",
+      "leveling_rate": "Slow"
+    }
+  },
+  "eelektrik": {
+    "name": {
+      "en": "Eelektrik",
+      "ja": "シビビール"
+    },
+    "exp_info": {
+      "base_experience": "142",
+      "leveling_rate": "Slow"
+    }
+  },
+  "eelektross": {
+    "name": {
+      "en": "Eelektross",
+      "ja": "シビルドン"
+    },
+    "exp_info": {
+      "base_experience": "232",
+      "leveling_rate": "Slow"
+    }
+  },
+  "elgyem": {
+    "name": {
+      "en": "Elgyem",
+      "ja": "リグレー"
+    },
+    "exp_info": {
+      "base_experience": "67",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "beheeyem": {
+    "name": {
+      "en": "Beheeyem",
+      "ja": "オーベム"
+    },
+    "exp_info": {
+      "base_experience": "170",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "litwick": {
+    "name": {
+      "en": "Litwick",
+      "ja": "ヒトモシ"
+    },
+    "exp_info": {
+      "base_experience": "55",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "lampent": {
+    "name": {
+      "en": "Lampent",
+      "ja": "ランプラー"
+    },
+    "exp_info": {
+      "base_experience": "130",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "chandelure": {
+    "name": {
+      "en": "Chandelure",
+      "ja": "シャンデラ"
+    },
+    "exp_info": {
+      "base_experience": "234",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "axew": {
+    "name": {
+      "en": "Axew",
+      "ja": "キバゴ"
+    },
+    "exp_info": {
+      "base_experience": "64",
+      "leveling_rate": "Slow"
+    }
+  },
+  "fraxure": {
+    "name": {
+      "en": "Fraxure",
+      "ja": "オノンド"
+    },
+    "exp_info": {
+      "base_experience": "144",
+      "leveling_rate": "Slow"
+    }
+  },
+  "haxorus": {
+    "name": {
+      "en": "Haxorus",
+      "ja": "オノノクス"
+    },
+    "exp_info": {
+      "base_experience": "243",
+      "leveling_rate": "Slow"
+    }
+  },
+  "cubchoo": {
+    "name": {
+      "en": "Cubchoo",
+      "ja": "クマシュン"
+    },
+    "exp_info": {
+      "base_experience": "61",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "beartic": {
+    "name": {
+      "en": "Beartic",
+      "ja": "ツンベアー"
+    },
+    "exp_info": {
+      "base_experience": "170",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "cryogonal": {
+    "name": {
+      "en": "Cryogonal",
+      "ja": "フリージオ"
+    },
+    "exp_info": {
+      "base_experience": "170",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "shelmet": {
+    "name": {
+      "en": "Shelmet",
+      "ja": "チョボマキ"
+    },
+    "exp_info": {
+      "base_experience": "61",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "accelgor": {
+    "name": {
+      "en": "Accelgor",
+      "ja": "アギルダー"
+    },
+    "exp_info": {
+      "base_experience": "173",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "stunfisk": {
+    "name": {
+      "en": "Stunfisk",
+      "ja": "マッギョ"
+    },
+    "exp_info": {
+      "base_experience": "165",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "mienfoo": {
+    "name": {
+      "en": "Mienfoo",
+      "ja": "コジョフー"
+    },
+    "exp_info": {
+      "base_experience": "70",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "mienshao": {
+    "name": {
+      "en": "Mienshao",
+      "ja": "コジョンド"
+    },
+    "exp_info": {
+      "base_experience": "179",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "druddigon": {
+    "name": {
+      "en": "Druddigon",
+      "ja": "クリムガン"
+    },
+    "exp_info": {
+      "base_experience": "173",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "golett": {
+    "name": {
+      "en": "Golett",
+      "ja": "ゴビット"
+    },
+    "exp_info": {
+      "base_experience": "61",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "golurk": {
+    "name": {
+      "en": "Golurk",
+      "ja": "ゴルーグ"
+    },
+    "exp_info": {
+      "base_experience": "169",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "pawniard": {
+    "name": {
+      "en": "Pawniard",
+      "ja": "コマタナ"
+    },
+    "exp_info": {
+      "base_experience": "68",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "bisharp": {
+    "name": {
+      "en": "Bisharp",
+      "ja": "キリキザン"
+    },
+    "exp_info": {
+      "base_experience": "172",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "bouffalant": {
+    "name": {
+      "en": "Bouffalant",
+      "ja": "バッフロン"
+    },
+    "exp_info": {
+      "base_experience": "172",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "rufflet": {
+    "name": {
+      "en": "Rufflet",
+      "ja": "ワシボン"
+    },
+    "exp_info": {
+      "base_experience": "70",
+      "leveling_rate": "Slow"
+    }
+  },
+  "braviary": {
+    "name": {
+      "en": "Braviary",
+      "ja": "ウォーグル"
+    },
+    "exp_info": {
+      "base_experience": "179",
+      "leveling_rate": "Slow"
+    }
+  },
+  "vullaby": {
+    "name": {
+      "en": "Vullaby",
+      "ja": "バルチャイ"
+    },
+    "exp_info": {
+      "base_experience": "74",
+      "leveling_rate": "Slow"
+    }
+  },
+  "mandibuzz": {
+    "name": {
+      "en": "Mandibuzz",
+      "ja": "バルジーナ"
+    },
+    "exp_info": {
+      "base_experience": "179",
+      "leveling_rate": "Slow"
+    }
+  },
+  "heatmor": {
+    "name": {
+      "en": "Heatmor",
+      "ja": "クイタラン"
+    },
+    "exp_info": {
+      "base_experience": "169",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "durant": {
+    "name": {
+      "en": "Durant",
+      "ja": "アイアント"
+    },
+    "exp_info": {
+      "base_experience": "169",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "deino": {
+    "name": {
+      "en": "Deino",
+      "ja": "モノズ"
+    },
+    "exp_info": {
+      "base_experience": "60",
+      "leveling_rate": "Slow"
+    }
+  },
+  "zweilous": {
+    "name": {
+      "en": "Zweilous",
+      "ja": "ジヘッド"
+    },
+    "exp_info": {
+      "base_experience": "147",
+      "leveling_rate": "Slow"
+    }
+  },
+  "hydreigon": {
+    "name": {
+      "en": "Hydreigon",
+      "ja": "サザンドラ"
+    },
+    "exp_info": {
+      "base_experience": "270",
+      "leveling_rate": "Slow"
+    }
+  },
+  "larvesta": {
+    "name": {
+      "en": "Larvesta",
+      "ja": "メラルバ"
+    },
+    "exp_info": {
+      "base_experience": "72",
+      "leveling_rate": "Slow"
+    }
+  },
+  "volcarona": {
+    "name": {
+      "en": "Volcarona",
+      "ja": "ウルガモス"
+    },
+    "exp_info": {
+      "base_experience": "248",
+      "leveling_rate": "Slow"
+    }
+  },
+  "cobalion": {
+    "name": {
+      "en": "Cobalion",
+      "ja": "コバルオン"
+    },
+    "exp_info": {
+      "base_experience": "261",
+      "leveling_rate": "Slow"
+    }
+  },
+  "terrakion": {
+    "name": {
+      "en": "Terrakion",
+      "ja": "テラキオン"
+    },
+    "exp_info": {
+      "base_experience": "261",
+      "leveling_rate": "Slow"
+    }
+  },
+  "virizion": {
+    "name": {
+      "en": "Virizion",
+      "ja": "ビリジオン"
+    },
+    "exp_info": {
+      "base_experience": "261",
+      "leveling_rate": "Slow"
+    }
+  },
+  "tornadus": {
+    "name": {
+      "en": "Tornadus",
+      "ja": "トルネロス"
+    },
+    "exp_info": {
+      "base_experience": "261",
+      "leveling_rate": "Slow"
+    }
+  },
+  "thundurus": {
+    "name": {
+      "en": "Thundurus",
+      "ja": "ボルトロス"
+    },
+    "exp_info": {
+      "base_experience": "261",
+      "leveling_rate": "Slow"
+    }
+  },
+  "reshiram": {
+    "name": {
+      "en": "Reshiram",
+      "ja": "レシラム"
+    },
+    "exp_info": {
+      "base_experience": "306",
+      "leveling_rate": "Slow"
+    }
+  },
+  "zekrom": {
+    "name": {
+      "en": "Zekrom",
+      "ja": "ゼクロム"
+    },
+    "exp_info": {
+      "base_experience": "306",
+      "leveling_rate": "Slow"
+    }
+  },
+  "landorus": {
+    "name": {
+      "en": "Landorus",
+      "ja": "ランドロス"
+    },
+    "exp_info": {
+      "base_experience": "270",
+      "leveling_rate": "Slow"
+    }
+  },
+  "kyurem": {
+    "name": {
+      "en": "Kyurem",
+      "ja": "キュレム"
+    },
+    "exp_info": {
+      "base_experience": "297",
+      "leveling_rate": "Slow"
+    }
+  },
+  "keldeo": {
+    "name": {
+      "en": "Keldeo",
+      "ja": "ケルディオ"
+    },
+    "exp_info": {
+      "base_experience": "261",
+      "leveling_rate": "Slow"
+    }
+  },
+  "meloetta": {
+    "name": {
+      "en": "Meloetta",
+      "ja": "メロエッタ"
+    },
+    "exp_info": {
+      "base_experience": "270",
+      "leveling_rate": "Slow"
+    }
+  },
+  "genesect": {
+    "name": {
+      "en": "Genesect",
+      "ja": "ゲノセクト"
+    },
+    "exp_info": {
+      "base_experience": "270",
+      "leveling_rate": "Slow"
+    }
+  },
+  "chespin": {
+    "name": {
+      "en": "Chespin",
+      "ja": "ハリマロン"
+    },
+    "exp_info": {
+      "base_experience": "63",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "quilladin": {
+    "name": {
+      "en": "Quilladin",
+      "ja": "ハリボーグ"
+    },
+    "exp_info": {
+      "base_experience": "142",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "chesnaught": {
+    "name": {
+      "en": "Chesnaught",
+      "ja": "ブリガロン"
+    },
+    "exp_info": {
+      "base_experience": "239",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "fennekin": {
+    "name": {
+      "en": "Fennekin",
+      "ja": "フォッコ"
+    },
+    "exp_info": {
+      "base_experience": "61",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "braixen": {
+    "name": {
+      "en": "Braixen",
+      "ja": "テールナー"
+    },
+    "exp_info": {
+      "base_experience": "143",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "delphox": {
+    "name": {
+      "en": "Delphox",
+      "ja": "マフォクシー"
+    },
+    "exp_info": {
+      "base_experience": "240",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "froakie": {
+    "name": {
+      "en": "Froakie",
+      "ja": "ケロマツ"
+    },
+    "exp_info": {
+      "base_experience": "63",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "frogadier": {
+    "name": {
+      "en": "Frogadier",
+      "ja": "ゲコガシラ"
+    },
+    "exp_info": {
+      "base_experience": "142",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "greninja": {
+    "name": {
+      "en": "Greninja",
+      "ja": "ゲッコウガ"
+    },
+    "exp_info": {
+      "base_experience": "239",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "bunnelby": {
+    "name": {
+      "en": "Bunnelby",
+      "ja": "ホルビー"
+    },
+    "exp_info": {
+      "base_experience": "47",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "diggersby": {
+    "name": {
+      "en": "Diggersby",
+      "ja": "ホルード"
+    },
+    "exp_info": {
+      "base_experience": "148",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "fletchling": {
+    "name": {
+      "en": "Fletchling",
+      "ja": "ヤヤコマ"
+    },
+    "exp_info": {
+      "base_experience": "56",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "fletchinder": {
+    "name": {
+      "en": "Fletchinder",
+      "ja": "ヒノヤコマ"
+    },
+    "exp_info": {
+      "base_experience": "134",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "talonflame": {
+    "name": {
+      "en": "Talonflame",
+      "ja": "ファイアロー"
+    },
+    "exp_info": {
+      "base_experience": "175",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "scatterbug": {
+    "name": {
+      "en": "Scatterbug",
+      "ja": "コフキムシ"
+    },
+    "exp_info": {
+      "base_experience": "40",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "spewpa": {
+    "name": {
+      "en": "Spewpa",
+      "ja": "コフーライ"
+    },
+    "exp_info": {
+      "base_experience": "75",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "vivillon": {
+    "name": {
+      "en": "Vivillon",
+      "ja": "ビビヨン"
+    },
+    "exp_info": {
+      "base_experience": "185",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "litleo": {
+    "name": {
+      "en": "Litleo",
+      "ja": "シシコ"
+    },
+    "exp_info": {
+      "base_experience": "74",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "pyroar": {
+    "name": {
+      "en": "Pyroar",
+      "ja": "カエンジシ"
+    },
+    "exp_info": {
+      "base_experience": "177",
+      "leveling_rate": "Medium Slow"
+    }
+  },
+  "flabb": {
+    "name": {
+      "en": "Flabébé",
+      "ja": "フラベベ"
+    },
+    "exp_info": {
+      "base_experience": "61",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "floette": {
+    "name": {
+      "en": "Floette",
+      "ja": "フラエッテ"
+    },
+    "exp_info": {
+      "base_experience": "130",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "florges": {
+    "name": {
+      "en": "Florges",
+      "ja": "フラージェス"
+    },
+    "exp_info": {
+      "base_experience": "248",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "skiddo": {
+    "name": {
+      "en": "Skiddo",
+      "ja": "メェークル"
+    },
+    "exp_info": {
+      "base_experience": "70",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "gogoat": {
+    "name": {
+      "en": "Gogoat",
+      "ja": "ゴーゴート"
+    },
+    "exp_info": {
+      "base_experience": "186",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "pancham": {
+    "name": {
+      "en": "Pancham",
+      "ja": "ヤンチャム"
+    },
+    "exp_info": {
+      "base_experience": "70",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "pangoro": {
+    "name": {
+      "en": "Pangoro",
+      "ja": "ゴロンダ"
+    },
+    "exp_info": {
+      "base_experience": "173",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "furfrou": {
+    "name": {
+      "en": "Furfrou",
+      "ja": "トリミアン"
+    },
+    "exp_info": {
+      "base_experience": "165",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "espurr": {
+    "name": {
+      "en": "Espurr",
+      "ja": "ニャスパー"
+    },
+    "exp_info": {
+      "base_experience": "71",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "meowstic": {
+    "name": {
+      "en": "Meowstic",
+      "ja": "ニャオニクス"
+    },
+    "exp_info": {
+      "base_experience": "163",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "honedge": {
+    "name": {
+      "en": "Honedge",
+      "ja": "ヒトツキ"
+    },
+    "exp_info": {
+      "base_experience": "65",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "doublade": {
+    "name": {
+      "en": "Doublade",
+      "ja": "ニダンギル"
+    },
+    "exp_info": {
+      "base_experience": "157",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "aegislash": {
+    "name": {
+      "en": "Aegislash",
+      "ja": "ギルガルド"
+    },
+    "exp_info": {
+      "base_experience": "234",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "spritzee": {
+    "name": {
+      "en": "Spritzee",
+      "ja": "シュシュプ"
+    },
+    "exp_info": {
+      "base_experience": "68",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "aromatisse": {
+    "name": {
+      "en": "Aromatisse",
+      "ja": "フレフワン"
+    },
+    "exp_info": {
+      "base_experience": "162",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "swirlix": {
+    "name": {
+      "en": "Swirlix",
+      "ja": "ペロッパフ"
+    },
+    "exp_info": {
+      "base_experience": "68",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "slurpuff": {
+    "name": {
+      "en": "Slurpuff",
+      "ja": "ペロリーム"
+    },
+    "exp_info": {
+      "base_experience": "168",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "inkay": {
+    "name": {
+      "en": "Inkay",
+      "ja": "マーイーカ"
+    },
+    "exp_info": {
+      "base_experience": "58",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "malamar": {
+    "name": {
+      "en": "Malamar",
+      "ja": "カラマネロ"
+    },
+    "exp_info": {
+      "base_experience": "169",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "binacle": {
+    "name": {
+      "en": "Binacle",
+      "ja": "カメテテ"
+    },
+    "exp_info": {
+      "base_experience": "61",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "barbaracle": {
+    "name": {
+      "en": "Barbaracle",
+      "ja": "ガメノデス"
+    },
+    "exp_info": {
+      "base_experience": "175",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "skrelp": {
+    "name": {
+      "en": "Skrelp",
+      "ja": "クズモー"
+    },
+    "exp_info": {
+      "base_experience": "64",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "dragalge": {
+    "name": {
+      "en": "Dragalge",
+      "ja": "ドラミドロ"
+    },
+    "exp_info": {
+      "base_experience": "173",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "clauncher": {
+    "name": {
+      "en": "Clauncher",
+      "ja": "ウデッポウ"
+    },
+    "exp_info": {
+      "base_experience": "66",
+      "leveling_rate": "Slow"
+    }
+  },
+  "clawitzer": {
+    "name": {
+      "en": "Clawitzer",
+      "ja": "ブロスター"
+    },
+    "exp_info": {
+      "base_experience": "100",
+      "leveling_rate": "Slow"
+    }
+  },
+  "helioptile": {
+    "name": {
+      "en": "Helioptile",
+      "ja": "エリキテル"
+    },
+    "exp_info": {
+      "base_experience": "58",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "heliolisk": {
+    "name": {
+      "en": "Heliolisk",
+      "ja": "エレザード"
+    },
+    "exp_info": {
+      "base_experience": "168",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "tyrunt": {
+    "name": {
+      "en": "Tyrunt",
+      "ja": "チゴラス"
+    },
+    "exp_info": {
+      "base_experience": "72",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "tyrantrum": {
+    "name": {
+      "en": "Tyrantrum",
+      "ja": "ガチゴラス"
+    },
+    "exp_info": {
+      "base_experience": "182",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "amaura": {
+    "name": {
+      "en": "Amaura",
+      "ja": "アマルス"
+    },
+    "exp_info": {
+      "base_experience": "72",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "aurorus": {
+    "name": {
+      "en": "Aurorus",
+      "ja": "アマルルガ"
+    },
+    "exp_info": {
+      "base_experience": "104",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "sylveon": {
+    "name": {
+      "en": "Sylveon",
+      "ja": "ニンフィア"
+    },
+    "exp_info": {
+      "base_experience": "184",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "hawlucha": {
+    "name": {
+      "en": "Hawlucha",
+      "ja": "ルチャブル"
+    },
+    "exp_info": {
+      "base_experience": "175",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "dedenne": {
+    "name": {
+      "en": "Dedenne",
+      "ja": "デデンネ"
+    },
+    "exp_info": {
+      "base_experience": "151",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "carbink": {
+    "name": {
+      "en": "Carbink",
+      "ja": "メレシー"
+    },
+    "exp_info": {
+      "base_experience": "100",
+      "leveling_rate": "Slow"
+    }
+  },
+  "goomy": {
+    "name": {
+      "en": "Goomy",
+      "ja": "ヌメラ"
+    },
+    "exp_info": {
+      "base_experience": "60",
+      "leveling_rate": "Slow"
+    }
+  },
+  "sliggoo": {
+    "name": {
+      "en": "Sliggoo",
+      "ja": "ヌメイル"
+    },
+    "exp_info": {
+      "base_experience": "158",
+      "leveling_rate": "Slow"
+    }
+  },
+  "goodra": {
+    "name": {
+      "en": "Goodra",
+      "ja": "ヌメルゴン"
+    },
+    "exp_info": {
+      "base_experience": "270",
+      "leveling_rate": "Slow"
+    }
+  },
+  "klefki": {
+    "name": {
+      "en": "Klefki",
+      "ja": "クレッフィ"
+    },
+    "exp_info": {
+      "base_experience": "165",
+      "leveling_rate": "Fast"
+    }
+  },
+  "phantump": {
+    "name": {
+      "en": "Phantump",
+      "ja": "ボクレー"
+    },
+    "exp_info": {
+      "base_experience": "62",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "trevenant": {
+    "name": {
+      "en": "Trevenant",
+      "ja": "オーロット"
+    },
+    "exp_info": {
+      "base_experience": "166",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "pumpkaboo": {
+    "name": {
+      "en": "Pumpkaboo",
+      "ja": "バケッチャ"
+    },
+    "exp_info": {
+      "base_experience": "67",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "gourgeist": {
+    "name": {
+      "en": "Gourgeist",
+      "ja": "パンプジン"
+    },
+    "exp_info": {
+      "base_experience": "173",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "bergmite": {
+    "name": {
+      "en": "Bergmite",
+      "ja": "カチコール"
+    },
+    "exp_info": {
+      "base_experience": "61",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "avalugg": {
+    "name": {
+      "en": "Avalugg",
+      "ja": "クレベース"
+    },
+    "exp_info": {
+      "base_experience": "180",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "noibat": {
+    "name": {
+      "en": "Noibat",
+      "ja": "オンバット"
+    },
+    "exp_info": {
+      "base_experience": "49",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "noivern": {
+    "name": {
+      "en": "Noivern",
+      "ja": "オンバーン"
+    },
+    "exp_info": {
+      "base_experience": "187",
+      "leveling_rate": "Medium Fast"
+    }
+  },
+  "xerneas": {
+    "name": {
+      "en": "Xerneas",
+      "ja": "ゼルネアス"
+    },
+    "exp_info": {
+      "base_experience": "306",
+      "leveling_rate": "Slow"
+    }
+  },
+  "yveltal": {
+    "name": {
+      "en": "Yveltal",
+      "ja": "イベルタル"
+    },
+    "exp_info": {
+      "base_experience": "306",
+      "leveling_rate": "Slow"
+    }
+  },
+  "zygarde": {
+    "name": {
+      "en": "Zygarde",
+      "ja": "ジガルデ"
+    },
+    "exp_info": {
+      "base_experience": "270",
+      "leveling_rate": "Slow"
+    }
+  },
+  "diancie": {
+    "name": {
+      "en": "Diancie",
+      "ja": "ディアンシー"
+    },
+    "exp_info": {
+      "base_experience": "270",
+      "leveling_rate": "Slow"
+    }
+  }
+}
